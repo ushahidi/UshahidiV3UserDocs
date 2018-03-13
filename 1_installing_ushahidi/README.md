@@ -9,10 +9,5 @@ We recommend that most users install the latest release.
 
 **Please note that we currently DO NOT RECOMMEND INSTALLATION ON WINDOWS OR MAC!**
 
-**Setting up Ushahidi Mobile App with your deployment**
-
-* Configure your deployment to support the mobile app
-* Test with the mobile app
-
 
 
