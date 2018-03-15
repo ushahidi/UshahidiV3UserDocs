@@ -21,7 +21,7 @@ Once you have the code, the next step is to prepare a web server.
 * [Composer](https://getcomposer.org/)
 * PHP &gt;= 5.6
 
-\*_Windows users\_may be required to \_Enable VT-X \(Intel Virtualization Technology\) in the computer's bios settings, disable Hyper-V on program and features page in the \_control_ panel, and install the VirtualBox Extension Pack \(installation instructions_\[\_here_\]\([https://www.youtube.com/watch?v=mwKmxxRbvws\)\_.\)\_](https://www.youtube.com/watch?v=mwKmxxRbvws%29_.%29_)
+\*_Windows users\_may be required to \_Enable VT-X \(Intel Virtualization Technology\) in the computer's bios settings, disable Hyper-V on program and features page in the \_control_ panel, and install the VirtualBox Extension Pack \(installation instructions [_here_](https://www.youtube.com/watch?v=mwKmxxRbvws)_\)_
 
 #### 1.2.1.3 Installing
 
@@ -40,7 +40,7 @@ Then you can bring up the vagrant server and provision it:
 vagrant up && vagrant provision
 ```
 
-Our vagrant box is build on[Laravel's Homestead](https://laravel.com/docs/5.4/homestead#per-project-installation), a pre-packaged Vagrant box that provides you with a pre-built development environment. Homestead includes the Nginx web server, PHP 7.1, MySQL, Postgres, Redis, Memcached, Node, and all of the other goodies you might need.
+Our vagrant box is built on [Laravel's Homestead](https://laravel.com/docs/5.4/homestead#per-project-installation), a pre-packaged Vagrant box that provides you with a pre-built development environment. Homestead includes the Nginx web server, PHP 7.1, MySQL, Postgres, Redis, Memcached, Node, and all of the other goodies you might need.
 
 _If you see errors about "Vagrant was unable to mount VirtualBox shared folders...", try upgrading VirtualBox or edit Homestead.yaml and change the folders to NFS as shown below, then re-run "vagrant" up._
 
@@ -80,9 +80,7 @@ The latest install instructions for the client are always in the README. If you 
 
 First you'll need nodejs or io.js installed, npm takes care of the rest of our dependencies.
 
-* nodejs 
-  &gt;
-  = v4.0
+* nodejs &gt;= v4.0
 
 #### 1.2.2.3 Install, build and run a local dev server
 
@@ -92,15 +90,14 @@ First you'll need nodejs or io.js installed, npm takes care of the rest of our d
    git clone https://github.com/ushahidi/platform-client.git
    ```
 
-   **Note**  
-   : if you're getting set up for development, you might want to   
-   [fork the repository](https://github.com/ushahidi/docs.ushahidi.com/blob/gh-pages/install/developer-guide/adding-code.html)  
-    first.
+   **Note**: if you're getting set up for development, you might want to [fork the repository](https://github.com/ushahidi/docs.ushahidi.com/blob/gh-pages/install/developer-guide/adding-code.html) first.
 
 2. Navigate to project root
+
    ```
    cd platform-client
    ```
+
 3. Install Build Requirements
    ```
    npm install -g gulp
@@ -109,15 +106,7 @@ First you'll need nodejs or io.js installed, npm takes care of the rest of our d
    ```
    npm install
    ```
-5. Set up build options. Create a   
-   `.env`  
-    file, you'll need to point   
-   `BACKEND_URL`  
-    at an instance of the   
-   [platform api](https://github.com/ushahidi/platform)  
-    \(If you followed the vagrant instructions above that'll be:   
-   [http://192.168.33.110](http://192.168.33.110/)  
-   \)
+5. Set up build options. Create a`.env`file, you'll need to point`BACKEND_URL` at an instance of the [platform api](https://github.com/ushahidi/platform) \(If you  followed the vagrant instructions above that'll be:[ http://192.168.33.110](http://192.168.33.110/)\)
 
    ```
    BACKEND_URL=http://192.168.33.110
@@ -129,8 +118,7 @@ First you'll need nodejs or io.js installed, npm takes care of the rest of our d
    gulp
    ```
 
-7. You should now have a local development server running on 
-   [http://localhost:3000/](http://localhost:3000/)
+7. You should now have a local development server running on [http://localhost:3000/](http://localhost:3000/)
 
 ### 1.2.3 Logging in the first time
 
