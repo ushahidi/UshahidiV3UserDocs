@@ -2,16 +2,18 @@
 
 ### 3.1.1 Log in {#3-1-1-log-in}
 
-If your deployment website is [www.yourdomain.com](http://www.yourdomain.com), you should be able to login via [http://yourdomain.com/login](http://yourdomain.com/login), or by clicking on the **_Log in_** link on the bottom left hand corner of your deployment as illustrated below.
+If your deployment website is [www.yourdomain.com](http://www.yourdomain.com), you should be able to login via [http://yourdomain.com/login](http://yourdomain.com/login), or by clicking on the _**Log in**_ link on the bottom left hand corner of your deployment as illustrated below.
 
-*   For Open Source deployments, the default install will create a user admin, with password admin. Be sure to edit this user’s password once you’re logged in.
-*   For ushahidi.io deployments, enter the email address and password you used to register your deployment, and the password![Screen Shot 2016-06-02 at 4.42.45 PM.png](../assets/screen_shot_2016-06-02_at_44245_p.png)
+![](/assets/Log_in.png)
 
-**_NB: You can use EITHER an email address OR username with a corresponding password to log into your deployment._**
+* For Open Source deployments, the default install will create a user admin, with password admin. Be sure to edit this user’s password once you’re logged in.
+* For ushahidi.io deployments, enter the email address and password you used to register your deployment, and the password![Screen Shot 2016-06-02 at 4.42.45 PM.png](../assets/screen_shot_2016-06-02_at_44245_p.png)
+
+_**NB: You can use EITHER an email address OR username with a corresponding password to log into your deployment.**_
 
 ### 3.1.2 Create an account {#3-1-2-create-an-account}
 
-If you don’t have an account already, you can create one by clicking on **_Sign Up_** and filling in the required details.
+If you don’t have an account already, you can create one by clicking on _**Sign Up**_ and filling in the required details.![](https://lh4.googleusercontent.com/Hg3QIlW0XrU9IWckErw0w1o5NcQftOXfvfiml0VBfO969o2MtLBA5QJqwxSRNdNv2jmVLheCGVD6p77wA6pST3943XtxAiQSSclzaV5X6MNMQhDPU21dezPomc8giu4LeGxE3glS)
 
 You’ll will be able to log in and perform basic actions on the platform, but won’t have much privilege within the platform until an administrator upgrades your access level.
 
@@ -19,34 +21,37 @@ You’ll will be able to log in and perform basic actions on the platform, but w
 
 Once you’re logged in, you can access and change your account details at any time. To do so
 
-*   Click on your account favicon at the bottom left hand corner of your deployment as illustrated below.
+* Click on your account favicon at the bottom left hand corner of your deployment as illustrated below.
 
-*   A pop up will appear on your screen. Make changes to your profile as desired, then click on **_Save &amp; Close_**
+![](/assets/Click_on_Account.png)
 
-****
+* A pop up will appear on your screen. Make changes to your profile as desired, then click on _**Save & Close**_
+
+![](/assets/Update_your_profile.png)
 
 #### 3.1.2.2 Notifications {#3-1-2-2-notifications}
 
-As a registered and logged in user, you can set up notifications on Saved Searches([Section 7.2](../7_analysing_data_on_your_deployment/72_saved_searches.md) of this manual) and Collections([Section 7.3](../7_analysing_data_on_your_deployment/73_collections.md) of this manual). This means that any time a post is added to a saved search/collection, you will receive an email or phone notification.
+As a registered and logged in user, you can set up notifications on [Saved Searches](/7_analysing_data_on_your_deployment/72_saved_searches.md) and [Collections](/7_analysing_data_on_your_deployment/73_collections.md). This means that any time a post is added to a saved search/collection, you will receive an email or phone notification.
 
-You can manage(turn these notification on or off) by
+You can manage\(turn these notification on or off\) by
 
-*   Clicking on your account favicon at the bottom left hand corner of your deployment as illustrated below.
+* Clicking on your account favicon at the bottom left hand corner of your deployment as illustrated below.![](https://lh5.googleusercontent.com/mnk2TAiFpj2X0Rbd2lTp9QgbD0-JgiMSXFMUo73ZZyGQu3atQ-2MM0WB6cOy9xDAPgyPdaVQLkXnRJNMgcovyPnj03kykYVNnrgeN7HiislAubcWMRUX4tFTpP-eknFNIeXTiOvW)
 
-*   Clicking on **_Notifications_**
+* Clicking on _**Notifications**_![](https://lh6.googleusercontent.com/pPfK56y2-NVum3jGSDKeTm2ui9pUkFHk1byOBUu7ybbu8xhfeNF3-mFADMWNwcNzd3k_rh-rkY8YWRB_p1DF_UsNsAP1Z2Sui5s_shG55Ijg88paQNR3LV-785VnslTus2jNcQM5)
 
-****
+* A list of all notifications you’ve signed up for will appear, with the option of turning them on and off. You’ll also be able to determine the email address or phone number through which you would like to receive notifications. You must have SMS configured to enable.![](https://lh5.googleusercontent.com/XEPXy_Y1n7GkXCqH7ByV4xf6fbpDL5xs01Lo0x2nuS1ISGttikMLCLEjzGNm4J2sBR8B-ybsXGU4cYzSgyPll2JgOIdYftUIZLlej7DA34gLUAwFKpiMcySbbQtvqIPfL0oUk-sh)![](https://lh6.googleusercontent.com/bi0HO7MMepOKGFQ_Au4aTzjZwzcgk76Ked6ODEKSCwaX04qiRWr8Dt7FWYWJc3QomQQICt6l7pmCflkJbj2YAhJPB_arBo20ngcISWZtOFM8vCkNY1paDYfV0Gx1uqMG2pjFyYqY)
 
-*   A list of all notifications you’ve signed up for will appear, with the option of turning them on and off. You’ll also be able to determine the email address or phone number through which you would like to receive notifications. You must have SMS configured to enable.
-
-*   You can also add additional contacts to receive notifications via email/phone.
+* You can also add additional contacts to receive notifications via email/phone.![](https://lh6.googleusercontent.com/F8rr7j0ELQAS8f4wY3KdlTqkqIOconnQ6wWvtSsgcA8AD1FO9ON-Cnp7Zod_X5rCEIohyBRzRq8dMmd3m3HuJVZvnDZRut9Gu0zdBwkpQGTJ90Zi2eXarx-xVgacdHYdmDYn4-9A)
 
 ### 3.1.3 Logging out {#3-1-3-logging-out}
 
 To log out of your deployment,
 
-*   Click on the log out icon at the bottom left hand corner of your deployment as illustrated below.
+* Click on the log out icon at the bottom left hand corner of your deployment as illustrated below.
 
-![Log_out.png](../assets/logout.png)
+![Log\_out.png](../assets/logout.png)
 
-*   You should be successfully logged out of your deployment, and redirected to the homepage.
+* You should be successfully logged out of your deployment, and redirected to the homepage.
+
+
+

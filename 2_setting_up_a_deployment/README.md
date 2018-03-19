@@ -30,15 +30,15 @@ You can create a new deployment in two ways:-
 
 ![Tour\_-\_Skip.jpg](../assets/tour-_skip_jpg.jpeg)
 
-* After the tour, you will be prompted to choose a plan from a list. Select one of the options provided for you.
+* After the tour, you will be prompted to choose a plan from a list. Select one of the options provided for you.![](https://lh5.googleusercontent.com/CpEVNNFXkgYW_AOu2t86IWzsQYHnh-7o9MCOfFzmtEBTqsb1q7Cn7n9jee-iJK2OKzWCPX-8gcHh-vXU1xVCF698KHg-RjvFG3hVt0612EPpvj5kMiRnwYrjKZVPMchsP97VdYox)
 
 You can dive deeper into the [full list of plan features here](http://www.ushahidi.com/plans-detail.html) to help you choose a plan that will meet your needs. If you work for a grassroots organization that can’t afford a paid plan, [apply for a free Responder plan here](http://www.ushahidi.com/plans/apply-for-free).
 
 * If you select the free Mapper plan, your deployment will build within a couple of minutes, and you’ll see your deployment name at the top.
 * If you select a paid plan, e.g Surveyor or Responder, you’ll need to do the following:-
-* Enter your credit card details and click on continue
+  * Enter your credit card details and click on continue![](https://lh5.googleusercontent.com/6QE-OOIMZdwxNmvv5SHXpJZwBsoTj_XdovL2Fm3WKHLsJiLUisOMEms1ySPfhtxVPhpvzvRC0et94T4sWBbAdm6_MWElRwksVADpKeyHtt56Jr-b2VgeiBglBsicq-zkDedykqm5)
 
-* After validation and successful payment, your deployment will be set up and available for you to use in a couple of minutes.
+  * After validation and successful payment, your deployment will be set up and available for you to use in a couple of minutes.![](https://lh6.googleusercontent.com/3CvJJ3BPGy9UN6a0pytk37ho34m0iS02mA8itJP6GJasil6V2PiAiw2EstvfNxefQ3cLU1QT7RAusMctCyg-TPYsQ5qTBCT4hwUFJ_0c7S9e41b1Od3FrLhcfg3UokjJCoZU0-B5)
 
 
 
