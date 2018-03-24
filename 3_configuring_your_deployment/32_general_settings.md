@@ -14,9 +14,11 @@ This page allows you to set the basic appearance of your deployment. To access G
   * _**Contact Email Address:**_** **This optional contact email will be displayed publicly to visitors of your deployment.
 
   * _**Site Language:**_** **You can update the default language of your deployment. This will update the labels within your user interface, and will update the layout of the deployment if you select a language that reads from the right to the left.
+
   * _**Private deployment:**_ Ticking this checkbox makes your deployment and it’s data only accessible to registered users\(with the correct privileges\) on your deployment, who must sign in for access.
 
 * You’ll also need to configure your map settings from this page. Your map settings allow you to select the type of base map you want for your project\( the style your map will display as.![](/assets/Settings_2.png)
+
   * _**Default base layer**_: Currently, the platform only offers Openstreetmap as a map provider. Plans are being made to add additional map providers.You can choose between the _map_, _satellite_ and _humanitarian_ views. This will determine the style your map will display as on your homepage.
 
 * * _**Default latitude and Default longitude**_: Dragging and dropping the blue pointer on the map automatically fills in these two fields. In the event that you have lat/lon values, you can also type them in and the pointer on the map will automatically update to match the points entered.
