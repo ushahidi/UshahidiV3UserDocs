@@ -64,7 +64,7 @@ To delete an existing field
 
 * Click on the trash icon adjacent to the field you'd like to delete![](/assets/delete_field.png)
 * A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the field
-  * Click on Delete to delete the field
+  * Click on _**Delete**_ to delete the field
   * If you’d like to cancel the field deletion process, click on Cancel![](/assets/Confirm_delete_field.png)
 
 #### 3.3.1.2 Tasks
@@ -75,36 +75,42 @@ You can organize your survey into “Tasks”,  allowing a deployment to add fie
 
 To add a new task,
 
-* Click on Add Task on your survey creation/edit page
+* Click on Add Task on your survey creation/edit page![](/assets/Add_task.png)
 * A small pop up box will appear, prompting you to give your task a name
 * If you’d like to make this task required before post submission, toggle the _**Require this task be completed before a post can be visible to the public button**_. This means that, a post will not be published until this task is marked as complete
-* Click on Add & Close
+* Click on _**Add & Close**_![](https://lh5.googleusercontent.com/xIJ9akufvgs7LQnOYLf3lyoswMsOOdboXM8Q6TtbVP43inHHfOkJDWVSw5Ws_b4FfHk0EN7ZBn5ShmEUnD7SViUsC-JzkxRxRBgCCUkY5OqwwGP44m827BsjKDIMV9w438mCuxfz "Add\_Task.jpg")
 
-###### Adding task fields
+###### Once set up, you can duplicate your task as follows.![](/assets/duplicate_task.png)Adding task fields
 
-You should be able to add fields to tasks in the same way that you add fields to a survey.
-
-Please refer to the Fields section of this manual for details on how to add, edit and delete task fields.
+You should be able to add fields to tasks in the same way that you add fields to a survey.![](/assets/Add_task_field.png)Please refer to the [Fields section](#3311-fields) of this manual for details on how to add, edit and delete task fields.
 
 ##### 3.3.1.2.2 Configuring tasks
+
+To make additional configurations to your task,
+
+* Click on _**Configure**_![](/assets/Configure_task.png)
+* Set the following options![](/assets/configure_task_2.png)
+  * _**Required: **_When set to yes, this task must be set as complete for successful post submission
+  * _**Task is only for internal use:**_ This limits visibility of this task during submission only to teams with permissions to manage posts on your deployment i.e only internal team members will be able to submit responses to this task
+  * _**Show this task to everyone when published: **_This limits visibility of task responses when viewing submitted posts if not enabled i.e it limits visibility of responses to tasks to internal teams only.
 
 ##### 3.3.1.2.3 Editing Tasks
 
 To edit an existing task,
 
-* Select the desired task
-* Make changes as desired, e.g changing the task name, description, and/or making a task required or not
-* When done, click on Save on the top of the page
+* Scroll down to the the desired task
+* Make changes as desired, e.g changing the task name, description, and/or making a task required or not![](/assets/Edit_task.png)
+* When done, click on _**Save**_ on the top of the page
 
 ##### 3.3.1.2.4 Deleting Tasks
 
 To delete an existing task
 
-* Select the desired task
-* Click on Delete Task
-* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the task
-  * Click on OK to delete the task
-  * If you’d like to cancel the task deletion process, click on Cancel
+* Scroll down to the desired task
+* Click on the three dotted icon, and select _**Delete Task**_
+* A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the task
+  * Click on _**delete**_ to delete the task
+  * If you’d like to cancel the task deletion process, click on _**Cancel**_![](/assets/Confirm_delete_task.png)
 
 ### 3.3.2 Configuring Surveys
 
