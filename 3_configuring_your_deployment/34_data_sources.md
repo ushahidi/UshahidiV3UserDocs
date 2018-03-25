@@ -52,7 +52,7 @@ To get started with email set up,
 
 * If you’d like to edit your email configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
-### 3.4.2 FrontlineSMS  {#3-4-2-frontlinesms-pending}
+### 3.4.2 FrontlineSMS {#3-4-2-frontlinesms-pending}
 
 FrontlineCloud is an online SMS management platform that lets you control and manage 2-way SMS engagement with anyone in the world.
 
@@ -78,9 +78,7 @@ To get started with FrontlineCloud set up,
 
 * Setup the FrontlineSMS data source on your Ushahidi platform
 
-  * Click on the drop down icon on the right as shown
-
-![](https://lh6.googleusercontent.com/FCIk_zxxGf4B-jFxdArcyTZCo-O9O30mis6F_Yc23dLoSt3rTidCGOqw1OOgHx1gZN3NlHMGGqEFVi4SoLCE55MaA7sT5hx60GQBxznJyis1b6l_YAH8rbdh1f-t1ElTubCVdIep)
+  * Click on the drop down icon on the right as shown![](/assets/Frontline.png)
 
 * Enter the FrontlineCloud API KEY that you generated in the previous step in theApi Keyfield
 
@@ -98,11 +96,12 @@ To get started with FrontlineCloud set up,
 
   * For Step 2 part 4, you will need to set the url in the following form:
 
-    * _**https://&lt;your deployment url&gt;/sms/frontline**_
+    * [https://&lt;your](https://<your)_** deployment url&gt;/sms/frontline**_
 
     * **Make sure to replace &lt;your deployment&gt; with the url of your deployment e.gmytest.ushahidi.io**
 
 * For Step 2 part 6, you will need to define the following key, value pairs shown in the image below:
+
   * **key:**message** value:**${trigger.text}
   * **key:**from** value:**${trigger.sourceNumber}
   * **key:**message** value:**&lt;secret value&gt;**, **where the secret value is the one you created on the Ushahidi datasource step. Replace &lt;secret value&gt; with the secret you copied earlier
@@ -138,22 +137,18 @@ To get started with Nexmo set up,
 
 * Go back to your Data source settings page on your deployment
 
-* Click on _**the drop down icon on the right to get to your Nexmo configuration page**_
-
----
+* Click on _**the drop down icon on the right to get to your Nexmo configuration page**_![](/assets/Nexmo.png)
 
 * Enter the following details, which you got earlier from your Nexmo Dashboard
   * _**From**_: Enter the phone number you will use to receive SMS messages from your nexmo account
   * _**Secret**_: Enter a secret value for security purposes.
   * _**API KEY**_: Enter the API key retrieved from your nexmo settings page.
   * _**API SECRET**_: Enter the API secret retrieved from your nexmo settings page.
-* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Nexmo.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Nexmo.![](https://lh5.googleusercontent.com/Nh-iVV9Cbz8sbjy75t52BFTUiSh7n-pyddJR4Ld8ERxXd2_fZQqa4BYBSy_PAoH4i-_RoPQYqtaXGDIkxI_sO0134x6grAZyjTK25nRqvwiazy8eCoQxOpWyCfhF1fdi8m9yaATD)
 
-* To enable/disable the nexmo data source, simply click on the green toggle.
+* To enable/disable the nexmo data source, simply click on the green toggle.![Toggle\_Nexmo.png](../assets/togglenexmo.png)
 
-![Toggle\_Nexmo.png](../assets/togglenexmo.png)
-
-* If you’d like to edit your nexmo configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
+* If you’d like to edit your nexmo configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
 ### 3.4.4 SMSSync {#3-4-4-smssync}
 
@@ -161,11 +156,9 @@ SMSsync is a simple, yet powerful SMS to HTTP sync utility that turns any Androi
 
 To get started with SMSSync set up,
 
-* Click on _**the drop down icon on the right as shown**_
+* Click on _**the drop down icon on the right as shown**_![](/assets/Smssync.png)
 
-![SMSSync.png](../assets/smssync.png)
-
-* Follow the instructions given to you below.
+* Follow the instructions given to you below.![](https://lh4.googleusercontent.com/Oe0aTzXe_cUxBf-jEszzgVMRVvzYJoUCLuvZtn3DxTc9hulwvowYhvkWa_NmXEM3CoVdNhjW8qIMMo0d45XAghOSwpek1m2CAPpzMgoqpUpMUj4puWUNb2x2S2W0kaFXbWrc5Iu8)
   * Download the application from the Android Market by scanning the QR Code presented to you on the settings page or simply search for it in the android market.
 
 _Please note that SMSsync works on any SMS-enabled device running Android 2.1 and above._
@@ -190,15 +183,11 @@ _Note: Version 2.5 or higher supports_[ _basic auth_](http://en.wikipedia.org/wi
   * Make sure that you have added and enabled\(checked\) the Sync URL you added above.
   * On the SYNC URL screen, tap on the Start SMSsync service to start the service. You only do this if the service is disabled.
 * You should be all set to work with SMSSync and Ushahidi now. Unstructured posts via SMS will now be pulled into the platform.
-* To enable/disable the SMSSync data source, simply click on the green toggle.
+* To enable/disable the SMSSync data source, simply click on the green toggle.![](https://lh6.googleusercontent.com/KGFdqmc08EwGxwmOpheFIDy_wRWjPKoKnqThhx1VpMM-iDZPf4BKFhEpR_nnQhuJtAa-Cmn4dq0B_4k1cBb0P7KmgSo7d5Kn4ifIoChKn5tX_s4WAacWQFGaol75M3-aoHp7sTuk)
 
-* If you’d like to edit your SMSSync configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
+* If you’d like to edit your SMSSync configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
 For more details on how to manage messages within SMSSync, see [configuration instructions on the SMSSync Website](http://smssync.ushahidi.com/configure/)
-
-### 
-
-###  {#-0}
 
 ### 3.4.5 Twilio {#3-4-5-twilio}
 
@@ -209,43 +198,37 @@ _**NB: You need a Twilio account to be able to configure this as a data source. 
 To get started with Twilio set up,
 
 * Log into your twilio account.
-* You’ll need to buy a number to use. Click on _**PHONE NUMBERS.**_
+* You’ll need to buy a number to use. Click on _**PHONE NUMBERS.**_![](https://lh6.googleusercontent.com/nTg0BDAwYmeexZIikSwScgL6mQCK77HC5O9jmjjfkAkZWDxIYrdtOkdujVcjHVGjrpNLGR_J_6MnrQ5sgshmnK_41YazzkiVwWnti3o3nqy3n7LsEeFL6muXSgXp2mUGyLu_NaYy)
 
----
-
-* Click on _**Buy a number**_
-
----
+* Click on _**Buy a number**_![](https://lh5.googleusercontent.com/qgZyDiq6zfyWQ16oDD_mns8MrDVw9yGdFJKl4hNYlaIm0WwFtzs-ge3a60JtmDedXkdNG_OQfWdr_T5Fom1uOYhs5OLrqDZOraoGfCuKeSQyw2v3P2Xs1PeeZLzDDyxf2GqtZaYD)
 
 * Select the desired criteria for your phone number
   * Country
   * Location/Number
   * Capabilities \(Voice, SMS, MMS\)
-* Click on** **_**Search**_. A list of available numbers based on the criteria set above will appear.
-* Click _**Buy**_ on the number you’d like to use.
+* Click on** **_**Search**_. A list of available numbers based on the criteria set above will appear.![](https://lh5.googleusercontent.com/KAxBSNWTiGmhxJkZIjm5opgovR7FYAjhwS6AP9zrjLHqTVte8uF_xJ4HpUOQZuitPJ3-zrpbt0CqzMbxCvdrt_bD7PDq0KncGCe8Y-nlk3OTLtsCX0ovxx3-aiXABLRcozUSQNIL)
+* Click _**Buy**_ on the number you’d like to use.![](https://lh6.googleusercontent.com/HiSUC35RDpOd0LDHhRSAvdych0xUI9Th2Ub_cMU5NuTLPihAOItVVP8qXUXNhxm3rv-rWD7M-h44EeknNSw8cMAfeaeteBZS8XGA4sMtrIsV7kyXd5ih4Y_L1ui8FHNXNCEfigCM)
 
 * Once you have a phone number, note it down as you’ll need it to configure your data source later on.
 
-* You’ll need to grab your API credentials from your Twilio Account settings page.
+* You’ll need to grab your API credentials from your Twilio Account settings page.![](https://lh6.googleusercontent.com/M7M7kmjrbveV9fNTMxX0Tu93UX8s5fOpYMHPLI-AKbXNIufVzkX_OUNKnrglRNLvFJ-p_gwi4IHGMa472nbxPsuBNz5DiLBeu04GVtGA5fJH41gwCd6FeFOh6cYEjqhtCasMeQ31)
 
-* Pick your _ACCOUNT SID_ and _AUTH TOKEN_ from the _**API Credentials**_ section.
+* Pick your _ACCOUNT SID_ and _AUTH TOKEN_ from the _**API Credentials**_ section.![](https://lh6.googleusercontent.com/ooTruNqgwqZm6daFloGAE0Cuy0-haLTRiwXpR438JmgXnf684BPxvL9KSmUi3_orRUyoon_YLl3Ro3Ee47Exs8pND7Gf17BDna8KHmGuFGT07G9e03U-M969w4dNf6VgtRMl79ec)
 
 * Go back to your Data source settings page on your deployment
 
-* Click on _**the drop down icon on the right as shown**_
-
-![Twilio.png](../assets/twilio.png)
+* Click on _**the drop down icon on the right as shown**_![](/assets/Twilio.png)
 
 * Enter the following details, which you got earlier from your Twilio Account
   * _**From**_: Enter the phone number you will use to receive SMS messages from your twilio account
   * _**ACCOUNT SID**_: Enter the unique ID of your twilio account
   * _**AUTH TOKEN**_: Enter the Auth Token retrieved from your twilio settings page.
   * _**SMS Auto Response**_: This will likely be the message sent back to users who send you SMS Messages.
-* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Twilio.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Twilio.![](https://lh4.googleusercontent.com/xz0ExSYZQgkHNoq8qvJofs5IOqOmOJv1B-qm3MRNoL6bLaGQwXZNPnu0nIAcqCju7AFUzx5WXR3VFifD0QDHPJJ_8AJfDVrwmwWOjyuoaiUnVAiHYf1HhR2jdzabZaJ0tVxJlrr8)
 
-* To enable/disable the Twilio data source, simply click on the green toggle.
+* To enable/disable the Twilio data source, simply click on the green toggle.![](https://lh4.googleusercontent.com/FuY6aFslDUclFQEE7_R1xUWyDkUJDQdRF_91AzvLiz3yGBwg79b-0V09XxjUp_oASz0CWM62Ad8i1-BZBEZTAxOJbmoJPIkCHbYZLC_d5dNXo_iy1swl5fxsm3-kkGIMeZl8vZxl)
 
-* If you’d like to edit your Twilio configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
+* If you’d like to edit your Twilio configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
 ### 3.4.6 Twitter {#3-4-6-twitter}
 
@@ -256,9 +239,7 @@ For you to be able to pull tweets based on hashtags, you will need to set up you
 * Click on _**the drop down icon on the right as shown**_
 * Click on Create a new twitter application. This will redirect you to [https://apps.twitter.com](https://apps.twitter.com)
 * Sign into [https://apps.twitter.com](https://dev.twitter.com) using your twitter username and password
-* Click on “Create New App”
-
-![Twitter.png](../assets/twitter.png)
+* Click on “Create New App”![](/assets/Twitter.png)
 
 ![Screen\_Shot\_2016-04-14\_at\_12\_40\_12\_PM.png](../assets/screenshot_2016_-04-14at_12_40_12.png)
 
@@ -270,17 +251,18 @@ For you to be able to pull tweets based on hashtags, you will need to set up you
   * Callback url – Leave this blank.
   * Agree to the terms and conditions then click on _**Create your twitter**_** **application
 
-* Once your application has been successfully created, you should now be able to access your access keys and tokens. To do so, click on _**Keys and Access Tokens**_ or _**Manage Keys and Access**_
+* Once your application has been successfully created, you should now be able to access your access keys and tokens. To do so, click on _**Keys and Access Tokens**_ or _**Manage Keys and Access**_![](https://lh3.googleusercontent.com/Udg5QSL2RbR7PTk8lTLm4qaCZI4N1lMBhDX9X9YJyCrTjDj6_7DOi_qgQ0e039rgm6WV5V9iRQKksjc-7gHO7YYmrMf9hpberPgXgG5G8LGq-Xkc6LZYh61hiyePbsgZe5l6odCB)
 
 * You’ll get redirected to a page where you can grab details needed to configure your Ushahidi deployment i.e _**CONSUMER KEY**_, _**CONSUMER SECRET**_, _**ACCESS TOKEN**_, _**ACCESS TOKEN SECRET**_.
+
 * You’ll have to generate an _**ACCESS TOKEN**_ and _**ACCESS TOKEN SECRET**_ by clicking on _**Generate my access token and token secret.**_** **This may take a couple of minutes, and your page will refresh with all the details you require.
 * Go back to your twitter configuration page on your deployment and fill in all the details from your twitter app management page.
 * Add the hashtags you want to pull tweets from in the “Twitter Search Terms” section. You can choose more than one hashtag, separated by a comma. It is recommended that short and clear hashtags be chosen.
-* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from twitter will now get pulled into the platform.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from twitter will now get pulled into the platform.![](https://lh3.googleusercontent.com/js-xYmqta-5YmxNxVdVSmWVfV_gGIZ9nOQRzWYARUeWcwhNRoNI5JhEElz4iMU-nQGixNbEs8mK8L6nqgXIOfQOeb0Q2PS6oyCk8CJSSJsIHqiZBSH7mwJmeMvbVKGFAVMi2C4dz)
 
 * To enable/disable the twitter data source, simply click on the green toggle.
 
-* If you’d like to edit your twitter configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
+* If you’d like to edit your twitter configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
 ![Edit\_Twitter.png](../assets/edittwitter.png)
 
