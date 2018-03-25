@@ -24,9 +24,13 @@ By default, each deployment has a _**Basic Post**_** **survey, which can be dele
   * _**Description:**_** **Provide a brief description of what kind of data you’ll be collecting with this survey
   * _**Fields + Tasks:**_ See below for details on how to add fields and tasks into your survey.
 
+* Click on save once you're done building your survey.
+
+NB: If you're setting up multiple surveys with similar structures, here's a neat trick for you - you can duplicate your survey from the survey list page as follows :\).![](/assets/Dotted_survey_list.png)![](/assets/Duplicate_survey.png)
+
 #### 3.3.1.1 Fields
 
-Each survey you create will have a title and description field by default. It's important to note these fields can be edited, _**but cannot be deleted**_. 
+Each survey you create will have a title and description field by default. It's important to note these fields can be edited, _**but cannot be deleted**_.
 
 ##### 3.3.1.1.1 Adding Fields
 
