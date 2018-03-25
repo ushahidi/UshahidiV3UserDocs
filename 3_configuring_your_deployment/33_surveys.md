@@ -114,14 +114,14 @@ To delete an existing task
 
 ### 3.3.2 Configuring Surveys
 
-You can add additional configurations to your survey e.g setting a survey color etc. To do so, 
+You can add additional configurations to your survey e.g setting a survey color etc. To do so,
 
 * Click on _**Configure**_ on the top of the survey editor![](/assets/Configure_survey.png)
 * Configure the settings to suit your needs![](/assets/Configure_survey_2.png)
 
 * * _**Require posts be reviewed before they’re published:**_** **When toggled on, posts submitted on your deployment will not be made public i.e accessible to anyone beyond your internal team, until it is reviewed \( It will remain in draft\). Setting this option off will automatically publish all posts submitted on your deployment. 
   * _**Hide author information:**_** **When toggled on, this option hides author information e.g phone numbers, twitter handles and email addresses of people who submit posts to your deployment from the public. _Note: logged in users with the permission to manage posts will still be able to see author information._
-  * _**Who can add to this survey:**_You can limit submission of posts to your survey by roles. By default, surveys are open to the general public for submissions, and not limited to internal roles. 
+  * \_**Who can add to this survey:**\_You can limit submission of posts to your survey by roles. By default, surveys are open to the general public for submissions, and not limited to internal roles. 
   * _**Color:**_** **Select a color or input a specific hex value to choose which color will be associated with this survey. Pins on the map will match whichever color you select.
 * Click on _**save**_ once your configuration options are complete
 
@@ -140,7 +140,7 @@ Ushahidi provides the ability to _**Share**_ your survey across multiple platfor
 
 To edit a survey
 
-* Click on a survey from the list of surveys on your page
+* Click on a survey from the list of surveys on your page![](/assets/Select_a_survey_to_edit.png)
 
 * From here, change your survey details as desired then click on _**Save**_
 
@@ -148,15 +148,11 @@ To edit a survey
 
 To delete a survey,
 
-* Select the desired survey from the surveys list page
+* Select the desired survey from the surveys list page, and click on the three dots icon adjacent to it. Then, select _**delete**_![](/assets/Dotted_survey_list.png)![](/assets/Delete_survey.png)
 
-* Click on _**Delete Survey**_
-
----
-
-* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the survey
-  * Click on _**OK**_ to delete the survey
-  * If you’d like to cancel the survey deletion process, click on _**Dismiss**_
+* A  pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the survey
+  * Click on _**Delete **_to delete the survey
+  * If you’d like to cancel the survey deletion process, click on _**Cancel**_![](/assets/Confirm_delete_survey.png)
 
 
 
