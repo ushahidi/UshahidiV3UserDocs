@@ -12,13 +12,13 @@ To access the Surveys configuration page,
 
 * Then, click on _**Surveys**_.![](/assets/Updated_Surveys.png)
 
-### 3.3.1 Adding Surveys {#3-3-1-adding-surveys}
+### 3.3.1 Building Surveys {#3-3-1-adding-surveys}
 
 By default, each deployment has a _**Basic Post**_** **survey, which can be deleted or modified as needed. To create a new survey,
 
 * Click on the _**yellow icon**_ as shown below![](/assets/Click__add_survey.png)
 
-* Fill in the required details. 
+* Fill in the required details.
 
   * _**Survey Name:**_** **Try being as specific as possible when creating your survey name so that users will understand what they are selecting when creating new posts
   * _**Description:**_** **Provide a brief description of what kind of data you’ll be collecting with this survey
@@ -26,11 +26,11 @@ By default, each deployment has a _**Basic Post**_** **survey, which can be dele
 
 #### 3.3.1.1 Fields
 
-Each survey you create will have a title and description field by default. You can add as many custom fields to your survey as you see fit. 
+Each survey you create will have a title and description field by default. You can add as many custom fields to your survey as you see fit.
 
 ##### 3.3.1.1.1 Adding Fields
 
-To add a new field, 
+To add a new field,
 
 * Click on Add Field
 * A pop up box with a list of different field types will appear on your screen. Choose whichever one will work best for the type of data you are trying to capture.
@@ -50,7 +50,7 @@ To edit an existing field,
 * Edit the fields\(as described in the section above on Adding fields\) as desired.
 * Click on Update&close when done.
 
-You can also change the position of existing fields by clicking on the scroll icons to the left of every field as shown below. 
+You can also change the position of existing fields by clicking on the scroll icons to the left of every field as shown below.
 
 ##### 3.3.1.1.3 Deleting Fields
 
@@ -76,7 +76,7 @@ To add a new task,
 
 ###### Adding task fields
 
-You should be able to add fields to tasks in the same way that you add fields to a survey. 
+You should be able to add fields to tasks in the same way that you add fields to a survey.
 
 Please refer to the Fields section of this manual for details on how to add, edit and delete task fields.
 
