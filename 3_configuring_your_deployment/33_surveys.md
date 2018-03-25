@@ -65,7 +65,7 @@ To delete an existing field
 
 You can organize your survey into “Tasks”,  allowing a deployment to add fields related to actions that need to be taken, like translation or verification. These groups of tasks are visible to specified users and can be marked as ‘complete.’ For example, if a particular survey requires verification upon submission, you can design a task to ensure your team knows the post needs to be verified before publishing. The task could include fields like whether the information was verified or not, who verified the information, how they verified it, and when they verified it. After verification, the task can be marked as complete and the post can either be moved to the next task if necessary, or published.
 
-##### 3.3.1.2.1 Adding Tasks
+##### 3.3.1.2.1 Building Tasks
 
 To add a new task,
 
@@ -80,7 +80,9 @@ You should be able to add fields to tasks in the same way that you add fields to
 
 Please refer to the Fields section of this manual for details on how to add, edit and delete task fields.
 
-##### 3.3.1.2.2 Editing Tasks
+##### 3.3.1.2.2 Configuring tasks
+
+##### 3.3.1.2.3 Editing Tasks
 
 To edit an existing task,
 
@@ -88,7 +90,7 @@ To edit an existing task,
 * Make changes as desired, e.g changing the task name, description, and/or making a task required or not
 * When done, click on Save on the top of the page
 
-##### 3.3.1.2.3 Deleting Tasks
+##### 3.3.1.2.4 Deleting Tasks
 
 To delete an existing task
 
