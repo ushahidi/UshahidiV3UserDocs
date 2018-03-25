@@ -18,7 +18,7 @@ By default, each deployment has a _**Basic Post**_** **survey, which can be dele
 
 * Click on the _**yellow icon**_ as shown below![](/assets/Click__add_survey.png)
 
-* Fill in the required details.
+* Fill in the required details.![](/assets/Survey_add.png)
 
   * _**Survey Name:**_** **Try being as specific as possible when creating your survey name so that users will understand what they are selecting when creating new posts
   * _**Description:**_** **Provide a brief description of what kind of data you’ll be collecting with this survey
@@ -26,40 +26,42 @@ By default, each deployment has a _**Basic Post**_** **survey, which can be dele
 
 #### 3.3.1.1 Fields
 
-Each survey you create will have a title and description field by default. You can add as many custom fields to your survey as you see fit.
+Each survey you create will have a title and description field by default. It's important to note these fields can be edited, _**but cannot be deleted**_. 
 
 ##### 3.3.1.1.1 Adding Fields
 
-To add a new field,
+You can add as many custom fields to your survey as you see fit.To add a new field,
 
-* Click on Add Field
-* A pop up box with a list of different field types will appear on your screen. Choose whichever one will work best for the type of data you are trying to capture.
+* Click on **Add Field**![](/assets/Add_field.png)
+* A pop up box with a list of different field types will appear on your screen. Choose whichever one will work best for the type of data you are trying to capture.![](https://lh4.googleusercontent.com/-JZBsDOl1q-3rC9YN_sOnfCgmGeppWJXZhFRQ98q4MBxdex-oA1urp2r6PXX0nHL-3Ij3BwSmRiTjdz_EtKzvhl3BhyDXrnR5ABA_Lev3sXQf4SYog2Vtw1e0yR3tkJguni8shAa "Field\_types\_1.jpg")![](/assets/Pop up 2.png)
 * Add the following details
-  * Name: This is what is displayed as a label for your newly created field
-  * Default Value: You can set a default value displayed every time someone is creating a new post
-  * Field Options: This appears in cases where you’re creating a checkbox, select or radio button field. You can add as many options as you would like
-  * Require this field be completed: If set to yes by toggling the button, the task in which this field belongs to will not be able to be marked as complete until this field has been filled out.
+  * _**Name:**_ This is what is displayed as a label for your newly created field
+  * _**Show field description:**_ You may add help text that provides additional details about this field.
+  * _**Required:**_ If set to yes, post submission will be only be successful once this field has been filled out. 
+  * _**Make responses private**_: This allows limiting access to responses to this field to specific users.
+  * _**Default Value:**_ You can set a default value displayed every time someone is creating a new post
+  * _**Field Options:**_ This appears in cases where you’re creating a checkbox, select or radio button field. You can add as many options as you would like![](/assets/Add_field 2.png)
 
-Once you’re done, click on Add&Close.
+Once you’re done, click on _**Add&Close.**_
 
-* ##### 3.3.1.1.2 Editing Fields
+##### 3.3.1.1.2 Editing Fields
 
 To edit an existing field,
 
-* Select the desired custom field by clicking on it
-* Edit the fields\(as described in the section above on Adding fields\) as desired.
-* Click on Update&close when done.
+* Select the desired custom field by clicking on it![](/assets/Select_edit_field.png)
+* Edit the fields\(as described in the section above on [Adding fields](#33111-adding-fields)\) as desired.
+* Click on _**Update&close**_ when done.![](/assets/edit_field.png)
 
-You can also change the position of existing fields by clicking on the scroll icons to the left of every field as shown below.
+You can also change the position of existing fields by clicking on the scroll icons to the left of every field as shown below.![](/assets/Change_field_position.png)
 
 ##### 3.3.1.1.3 Deleting Fields
 
 To delete an existing field
 
-* Click on the field you would like to delete\(as you would when selecting a field to edit\), then click on Delete Field
-* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the field
+* Click on the trash icon adjacent to the field you'd like to delete![](/assets/delete_field.png)
+* A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the field
   * Click on Delete to delete the field
-  * If you’d like to cancel the field deletion process, click on Cancel
+  * If you’d like to cancel the field deletion process, click on Cancel![](/assets/Confirm_delete_field.png)
 
 #### 3.3.1.2 Tasks
 
