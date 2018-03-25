@@ -151,7 +151,8 @@ To delete a survey,
 * Select the desired survey from the surveys list page, and click on the three dots icon adjacent to it. Then, select _**delete**_![](/assets/Dotted_survey_list.png)![](/assets/Delete_survey.png)
 
 * A  pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the survey
-  * Click on _**Delete **_to delete the survey
+
+  * Click on **Delete **to delete the survey
   * If you’d like to cancel the survey deletion process, click on _**Cancel**_![](/assets/Confirm_delete_survey.png)
 
 
