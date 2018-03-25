@@ -90,9 +90,9 @@ To make additional configurations to your task,
 
 * Click on _**Configure**_![](/assets/Configure_task.png)
 * Set the following options![](/assets/configure_task_2.png)
-  * _**Required: **_When set to yes, this task must be set as complete for successful post submission
+  * \_**Required: **\_When set to yes, this task must be set as complete for successful post submission
   * _**Task is only for internal use:**_ This limits visibility of this task during submission only to teams with permissions to manage posts on your deployment i.e only internal team members will be able to submit responses to this task
-  * _**Show this task to everyone when published: **_This limits visibility of task responses when viewing submitted posts if not enabled i.e it limits visibility of responses to tasks to internal teams only.
+  * \_**Show this task to everyone when published: **\_This limits visibility of task responses when viewing submitted posts if not enabled i.e it limits visibility of responses to tasks to internal teams only.
 
 ##### 3.3.1.2.3 Editing Tasks
 
@@ -114,21 +114,20 @@ To delete an existing task
 
 ### 3.3.2 Configuring Surveys
 
-After you build a Survey, you’ll need to _**Configure**_ the survey’s settings.
+You can add additional configurations to your survey e.g setting a survey color etc. To do so, 
 
-* Click on _**Configure**_ on the top of the survey editor
-* Configure the settings to suit your needs
+* Click on _**Configure**_ on the top of the survey editor![](/assets/Configure_survey.png)
+* Configure the settings to suit your needs![](/assets/Configure_survey_2.png)
 
-![Screen Shot 2017-05-31 at 12.45.16 PM.png](../assets/screen_shot_2017-05-31_at_124516.png)
-
-* * _**Require posts be reviewed before they’re published:**_** **Toggle this option “on” if you’d like posts to remain as drafts until you or a member of your team review the post’s information and choose to publish them. If this is toggled “off”, posts submitted to this survey will be published to everyone immediately after submission.
-  * _**Hide author information:**_** **Toggle this option “on” if you’d like to completely hide any author information publicly. _Note: logged in users with the permission to manage posts will still be able to see author information._
-  * _**Who can add to this survey:**_** **Choose whether everyone or only specific roles can add to this particular survey.
+* * _**Require posts be reviewed before they’re published:**_** **When toggled on, posts submitted on your deployment will not be made public i.e accessible to anyone beyond your internal team, until it is reviewed \( It will remain in draft\). Setting this option off will automatically publish all posts submitted on your deployment. 
+  * _**Hide author information:**_** **When toggled on, this option hides author information e.g phone numbers, twitter handles and email addresses of people who submit posts to your deployment from the public. _Note: logged in users with the permission to manage posts will still be able to see author information._
+  * _**Who can add to this survey:**_You can limit submission of posts to your survey by roles. By default, surveys are open to the general public for submissions, and not limited to internal roles. 
   * _**Color:**_** **Select a color or input a specific hex value to choose which color will be associated with this survey. Pins on the map will match whichever color you select.
+* Click on _**save**_ once your configuration options are complete
 
 ### 3.3.3 Sharing Surveys
 
-After you build and configure a Survey, you can choose to _**Share**_ the survey.
+Ushahidi provides the ability to _**Share**_ your survey across multiple platforms..
 
 ![Screen Shot 2017-05-31 at 12.57.13 PM.png](../assets/screen_shot_2017-05-31_at_125713.png)
 
