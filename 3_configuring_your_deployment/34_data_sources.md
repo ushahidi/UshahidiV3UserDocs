@@ -2,142 +2,197 @@
 
 There are many ways to enter posts into your Ushahidi deployment other than from the deployment itself. This section shows you how to configure all the possible data source types.
 
-**_NB: If you’re a user on ushahidi.com, the number of data source types available to you may be limited, based on the Ushahidi plan you are subscribed to. You may review these from_ **[**_our plans page_**](https://www.ushahidi.com/plans)**_. For open source/self hosted deployments, all data source types are available to you_**
+_**NB: If you’re a user on ushahidi.com, the number of data source types available to you may be limited, based on the Ushahidi plan you are subscribed to. You may review these from**_** **[_**our plans page**_](https://www.ushahidi.com/plans)_**. For open source/self hosted deployments, all data source types are available to you**_
 
 To access the data sources configuration page,
 
-*   On the left hand menu bar, click on **_Settings_**
+* On the left hand menu bar, click on _**Settings**_![](/assets/Click_on_settings.png)
 
-*   Then, click on **_Data Sources_**.
+* Then, click on _**Data Sources**_.![](/assets/Updated_Data_sources.png)
 
-![Data_Source_Settings.png](../assets/datasource_settings.png)
-
-*   You should get a full list of data sources as shown below
+* You should get a full list of data sources as shown below![](/assets/Screen Shot 2018-03-26 at 00.05.41.png)
 
 ### 3.4.1 Email {#3-4-1-email}
 
-This section allows you to set up the platform to receive emails from user. Before getting started, make sure that you have an email account set up on Gmail, Yahoo or any other service provider. Make sure that you have IMAP/POP enabled (For more information on these two protocols, [visit this website](http://www.pop2imap.com/). Instructions on how to enable the IMAP/POP settings in your email can be found here
+This section allows you to set up the platform to receive emails from user. Before getting started, make sure that you have an email account set up on Gmail, Yahoo or any other service provider. Make sure that you have IMAP/POP enabled \(For more information on these two protocols, [visit this website](http://www.pop2imap.com/). Instructions on how to enable the IMAP/POP settings in your email can be found here
 
-*   [Gmail](https://support.google.com/mail/troubleshooter/1668960?hl=en)
-*   [Yahoo](https://help.yahoo.com/kb/SLN3697.html)
+* [Gmail](https://support.google.com/mail/troubleshooter/1668960?hl=en)
+* [Yahoo](https://help.yahoo.com/kb/SLN3697.html)
 
 To get started with email set up,
 
-*   Click on **_the drop down icon on the right as shown_**
-*   Input the following email account settings:-
-    *   **_Incoming server type_**: You have two options to select from, **_POP_** and **_IMAP_**. We recommend using IMAP if possible because it’s the best way to make sure you can see all your mail at any time on all of your devices
-    *   **_Incoming server_**: Enter the address of the server where your email services are hosted. E.g _mail.yourwebsite.com_, _imap.gmail.com_ or _pop.gmail.com_
-    *   **_Incoming server port_**: Enter the port that your email account uses for incoming emails. This is also provided by your service provider and depends on the use of [SSL(Secure Sockets Layer)](https://www.digicert.com/ssl.htm)/[Transport Layer Security(TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security) or not. As a standard rule;
-        *   IMAP uses port 143 , but SSL/TLS encrypted IMAP uses port 993 .
-        *   POP uses port 110 , but SSL/TLS encrypted POP uses port 995
-    *   **_Incoming server security_**: You have 3 options to choose from to enhance secure connection to your email mailbox, depending on which is supported by your email service provider.
-        *   None
-        *   TLS - [Read more on Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-        *   SSL - [Read more on Secure Sockets Layer](https://www.digicert.com/ssl.htm)
-    *   **_Incoming user name_**: Enter the email address you want to use to receive emails e.g **_sample@youremail.com_**. We recommend setting up a separate email address for this purpose, preferably one that has lot of available space to avoid the account getting full in a short time, especially if the platform will be receiving a lot of submission via email.
-    *   **_Incoming password_**: Enter the password of the email account inserted above.
-    *   **_Outgoing server type_**: Select one of the three options presented to you:-
-        *   SMTP: Simple Mail Transfer Protocol (SMTP) is recommended for use with the ushahidi platform.
-        *   Sendmail
-        *   Native
-    *   **_Outgoing server_**: Enter the address of the server from which emails are sent out. This is also provided by the email service provider
-    *   **_Outgoing server port_**: Enter the port your email service provider uses for outgoing emails. The default port tends to be 25, but SMTP with SSL support uses port 465 or 587
-    *   **_Outgoing server security_**: Select one of the three options provided to you
-        *   None
-        *   SSL
-        *   TLS, which is recommended by the service provider for outgoing server security.
-    *   **_Outgoing user name_**: Enter the email address you want to use to send emails. E.g **_sample@youremail.com_**
-    *   **_Outgoing password_**: Enter the password of the email account inserted above.
-    *   **_Email sender name_**: This is what appears in the “from” field in outgoing emails.
-*   Click on **_Save_ **and this data source’s settings will be saved. Unstructured posts from email will now be pulled into the platform.
-*   To enable/disable the email data source, simply click on the green toggle.
+* Click on _**the drop down icon on the right as shown**_![](/assets/Email.png)
+* Input the following email account settings:-
+  * _**Incoming server type**_: You have two options to select from, _**POP**_ and _**IMAP**_. We recommend using IMAP if possible because it’s the best way to make sure you can see all your mail at any time on all of your devices
+  * _**Incoming server**_: Enter the address of the server where your email services are hosted. E.g _mail.yourwebsite.com_, _imap.gmail.com_ or _pop.gmail.com_
+  * _**Incoming server port**_: Enter the port that your email account uses for incoming emails. This is also provided by your service provider and depends on the use of [SSL\(Secure Sockets Layer\)](https://www.digicert.com/ssl.htm)/[Transport Layer Security\(TLS\)](https://en.wikipedia.org/wiki/Transport_Layer_Security) or not. As a standard rule;
+    * IMAP uses port 143 , but SSL/TLS encrypted IMAP uses port 993 .
+    * POP uses port 110 , but SSL/TLS encrypted POP uses port 995
+  * _**Incoming server security**_: You have 3 options to choose from to enhance secure connection to your email mailbox, depending on which is supported by your email service provider.
+    * None
+    * TLS - [Read more on Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+    * SSL - [Read more on Secure Sockets Layer](https://www.digicert.com/ssl.htm)
+  * _**Incoming user name**_: Enter the email address you want to use to receive emails e.g _**sample@youremail.com**_. We recommend setting up a separate email address for this purpose, preferably one that has lot of available space to avoid the account getting full in a short time, especially if the platform will be receiving a lot of submission via email.
+  * _**Incoming password**_: Enter the password of the email account inserted above.
+  * _**Outgoing server type**_: Select one of the three options presented to you:-
+    * SMTP: Simple Mail Transfer Protocol \(SMTP\) is recommended for use with the ushahidi platform.
+    * Sendmail
+    * Native
+  * _**Outgoing server**_: Enter the address of the server from which emails are sent out. This is also provided by the email service provider
+  * _**Outgoing server port**_: Enter the port your email service provider uses for outgoing emails. The default port tends to be 25, but SMTP with SSL support uses port 465 or 587
+  * _**Outgoing server security**_: Select one of the three options provided to you
+    * None
+    * SSL
+    * TLS, which is recommended by the service provider for outgoing server security.
+  * _**Outgoing user name**_: Enter the email address you want to use to send emails. E.g _**sample@youremail.com**_
+  * _**Outgoing password**_: Enter the password of the email account inserted above.
+  * _**Email sender name**_: This is what appears in the “from” field in outgoing emails.![](/assets/Email_1.png)![](/assets/Email_2.png)
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from email will now be pulled into the platform.
+* To enable/disable the email data source, simply click on the green toggle.![](https://lh3.googleusercontent.com/Zxt1pCp9yCB4wOxoEku7CYa25kS5koyAp5VenNT_2GvfwC3HdU6oEF5wfNV_wMQhdTdOUIBFIrS8cUpHjqd4x7OHG56AbCsCtRNtKkPbGT_92YA2BxG572edVu1TT7P8ucePN25f)
 
-*   If you’d like to edit your email configuration, simply click on the drop down icon on the right while on the data sources list page****and make your changes.
+* If you’d like to edit your email configuration, simply click on the drop down icon on the right while on the data sources list page and make your changes.
 
-### 3.4.2 FrontlineSMS {PENDING} {#3-4-2-frontlinesms-pending}
+### 3.4.2 FrontlineSMS  {#3-4-2-frontlinesms-pending}
+
+FrontlineCloud is an online SMS management platform that lets you control and manage 2-way SMS engagement with anyone in the world.
+
+**NB: You need a FrontlineCloud Starter or Pro account to be able to configure this as a data source. To sign up, go to**[**https://cloud.frontlinesms.com**](https://cloud.frontlinesms.com)**.**
+
+To get started with FrontlineCloud set up,
+
+* Log into your FrontlineCloud account.
+
+* You’ll need to setup your network connection![](https://lh4.googleusercontent.com/ZSUHMRqlsMQ-BwHQL8s2N3aHwvuwuowZ2rQJgw6FyitRXAHDaz2x55hsL-gIyAgjOPkFQYU0l92Rr4Gne14FOLlNOp2cV7XXbgqBmWNlMycgGhKvPsrn7AI684RuC8xBDu-IPNcX)
+
+* Click on _**Connect to a Mobile Network**_![](https://lh6.googleusercontent.com/aiJ9-qZ6hA_pbGbtP3IkhAfN_PlbarYzQX60exXlmLxQitW8Ehw7qHhOXMK3n2Uvpn9w415AtzJqQAhyLwpe1AhRECSYs5MMo5WzPl57J3kgmnu4IrVx32oj-2lqETnEDsfTpdSM)
+
+* FrontlineSMS gives you several different mobile network options to end and receive SMS. Choose the most appropriate for you from the list given below.![](https://lh4.googleusercontent.com/bYpFADVPmFKAjtDlipAeMORICJYSr0UFNX9jH_c4ne-zWsCO6ipd3zFOHxzJp6cW0yqhFLCdZRxbtc9XuBgSkY0BcmCkEBUBARVbY5WkNYs0okOp76bemJy0zk5i07zrqwLcHpfb)
+
+* Once you have setup your mobile network, click on** **_**Activities**_![](https://lh5.googleusercontent.com/obZ1Kujn8q6_z44UiDH4QldyVR2SRoP05EnAWqsdcWTWRcYPrnVyu0ZVEDPsxLRZb7MrdHEu_TIKAODyKDs59lIyug7CvN1BFFTPGNGHjNhDTW_bomofkmPJwg7feCMYszeBb0xW)
+
+* Next you will need to setup An Activity to allow sending SMS from Ushahidi via Frontline
+
+  * Follow these instructions on how to [Send SMS from a Web Service Activity](https://frontlinecloud.zendesk.com/hc/en-us/articles/208115563-Send-SMS-from-a-Web-Service-Activity-Triggering-outbound-SMS-using-API-requests)
+
+  * Copy the API KEY generated during this step, as you will need it in the next step
+
+* Setup the FrontlineSMS data source on your Ushahidi platform
+
+  * Click on the drop down icon on the right as shown
+
+![](https://lh6.googleusercontent.com/FCIk_zxxGf4B-jFxdArcyTZCo-O9O30mis6F_Yc23dLoSt3rTidCGOqw1OOgHx1gZN3NlHMGGqEFVi4SoLCE55MaA7sT5hx60GQBxznJyis1b6l_YAH8rbdh1f-t1ElTubCVdIep)
+
+* Enter the FrontlineCloud API KEY that you generated in the previous step in theApi Keyfield
+
+* Enter a secret code in theSecretfield. This code will be used by FrontlineCloud to connect to the Ushahidi deployment. You can enter any value you like here. It should ideally contain numbers and letters and be ~20 characters long.
+
+![](https://lh6.googleusercontent.com/n3XEMdERK4IbIOxilOAxpMYnMJMHfcfKfmdE2eSPLe0ULjCgXT1bGPeJeuOc6BT-4WEvyzEC7nYTWWTSjRqMv9BwcyIgs6zCRXHZdViIIvCkkrRyfXuCgG4tO1hC0XXUP8xi_6go)
+
+* Copy the** **_**Secret**_** **you just created \(You will need it for the final FrontlineCloud configuration\), then click on _**Save**_
+
+* Return to your FrontLineCloud account
+
+* Follow this guide:
+
+  * [**Connecting to another web service: creating a Forward to URL Activity**](https://frontlinecloud.zendesk.com/hc/en-us/articles/208115553-Connecting-to-another-web-service-creating-a-Forward-to-URL-Activity)
+
+  * For Step 2 part 4, you will need to set the url in the following form:
+
+    * _**https://&lt;your deployment url&gt;/sms/frontline**_
+
+    * **Make sure to replace &lt;your deployment&gt; with the url of your deployment e.gmytest.ushahidi.io**
+
+* For Step 2 part 6, you will need to define the following key, value pairs shown in the image below:
+  * **key:**message** value:**${trigger.text}
+  * **key:**from** value:**${trigger.sourceNumber}
+  * **key:**message** value:**&lt;secret value&gt;**, **where the secret value is the one you created on the Ushahidi datasource step. Replace &lt;secret value&gt; with the secret you copied earlier
+
+![](https://lh3.googleusercontent.com/YpQkKRbiCXyfmk5roxYwsDy6S9LUOk0LFQTKJ5xlfAB33kJeSAjwIkA8NjDXQ0TQnD_hQuP8e0TI6n5dVdqb-6aSadghAIbiTbC7g5YWmUHgu41kFa_7QPf0wCrf_TSreZxhOc5k)
+
+* Finally, test that the system is setup correctly by sending a test sms to your number. The message should be forward to the Ushahidi deployment and appear in your list of posts.
 
 ### 3.4.3 Nexmo {#3-4-3-nexmo}
 
 Nexmo is a cloud-based SMS API that lets you send and receive a high volume of messages to mobile phones in any country at wholesale rates.
 
-**_NB: You need a nexmo account to be able to configure this as a data source. To sign up, go to_ **[**_https://dashboard.nexmo.com/sign-up_**](https://dashboard.nexmo.com/sign-up)
+_**NB: You need a nexmo account to be able to configure this as a data source. To sign up, go to**_** **[_**https://dashboard.nexmo.com/sign-up**_](https://dashboard.nexmo.com/sign-up)
 
 To get started with Nexmo set up,
 
-*   Log into your Nexmo Dashboard [https://dashboard.nexmo.com](https://dashboard.nexmo.com)
-*   If you haven’t already, you’ll need buy a number that you will use to receive SMS messages from.
-    *   Click on Numbers on the top menu bar on your nexmo dashboard
+* Log into your Nexmo Dashboard [https://dashboard.nexmo.com](https://dashboard.nexmo.com)
+* If you haven’t already, you’ll need buy a number that you will use to receive SMS messages from.
 
-*   *   Click on Buy Numbers
+  * Click on Numbers on the top menu bar on your nexmo dashboard
 
-*   *   Set the desired criteria of the phone number you’re looking to use
+* * Click on Buy Numbers
+* * Set the desired criteria of the phone number you’re looking to use
+* * * Select the country in which the SMS Number will likely be operating in
+    * Select the features of this phone number\(SMS only, Voice only or SMS & Voice\)
+    * Select the type of phone number it will be \(Mobile, Landline, Toll free\)
+  * Click on** **_**Search**_. A list of available numbers based on the criteria set above will appear.
+  * Click _**Buy**_ on the number you’d like to use.
+* Once you have a phone number, note it down as you’ll need it to configure your data source later on.
+* You’ll need to grab your API credentials from your nexmo settings page.
 
-*   *   *   Select the country in which the SMS Number will likely be operating in
-        *   Select the features of this phone number(SMS only, Voice only or SMS &amp; Voice)
-        *   Select the type of phone number it will be (Mobile, Landline, Toll free)
-    *   Click on** _Search_**. A list of available numbers based on the criteria set above will appear.
-    *   Click **_Buy_** on the number you’d like to use.
-*   Once you have a phone number, note it down as you’ll need it to configure your data source later on.
-*   You’ll need to grab your API credentials from your nexmo settings page.
+* Pick your _API KEY_ and _API SECRET_ from the _**API Settings**_ section.
 
-*   Pick your _API KEY_ and _API SECRET_ from the **_API Settings_** section.
+* Go back to your Data source settings page on your deployment
 
-*   Go back to your Data source settings page on your deployment
-*   Click on **_the drop down icon on the right to get to your Nexmo configuration page_**
+* Click on _**the drop down icon on the right to get to your Nexmo configuration page**_
 
-****
+---
 
-*   Enter the following details, which you got earlier from your Nexmo Dashboard
-    *   **_From_**: Enter the phone number you will use to receive SMS messages from your nexmo account
-    *   **_Secret_**: Enter a secret value for security purposes.
-    *   **_API KEY_**: Enter the API key retrieved from your nexmo settings page.
-    *   **_API SECRET_**: Enter the API secret retrieved from your nexmo settings page.
-*   Click on **_Save_ **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Nexmo.
+* Enter the following details, which you got earlier from your Nexmo Dashboard
+  * _**From**_: Enter the phone number you will use to receive SMS messages from your nexmo account
+  * _**Secret**_: Enter a secret value for security purposes.
+  * _**API KEY**_: Enter the API key retrieved from your nexmo settings page.
+  * _**API SECRET**_: Enter the API secret retrieved from your nexmo settings page.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Nexmo.
 
-*   To enable/disable the nexmo data source, simply click on the green toggle.
+* To enable/disable the nexmo data source, simply click on the green toggle.
 
-![Toggle_Nexmo.png](../assets/togglenexmo.png)
+![Toggle\_Nexmo.png](../assets/togglenexmo.png)
 
-*   If you’d like to edit your nexmo configuration, simply click on the drop down icon on the right while on the data sources list page****and make your changes.
+* If you’d like to edit your nexmo configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
 
 ### 3.4.4 SMSSync {#3-4-4-smssync}
 
-SMSsync is a simple, yet powerful SMS to HTTP sync utility that turns any Android phone into a local SMS gateway by sending incoming messages (SMS) to a configured URL (web service).
+SMSsync is a simple, yet powerful SMS to HTTP sync utility that turns any Android phone into a local SMS gateway by sending incoming messages \(SMS\) to a configured URL \(web service\).
 
 To get started with SMSSync set up,
 
-*   Click on **_the drop down icon on the right as shown_**
+* Click on _**the drop down icon on the right as shown**_
 
-**_![SMSSync.png](../assets/smssync.png)_**
+![SMSSync.png](../assets/smssync.png)
 
-*   Follow the instructions given to you below.
-    *   Download the application from the Android Market by scanning the QR Code presented to you on the settings page or simply search for it in the android market.
+* Follow the instructions given to you below.
+  * Download the application from the Android Market by scanning the QR Code presented to you on the settings page or simply search for it in the android market.
 
 _Please note that SMSsync works on any SMS-enabled device running Android 2.1 and above._
 
-*   *   Retrieve the **_Sync URL_**, which you’ll need to configure SMSSync with under **_Step 2: ANDROID APP SETTINGS_**
-    *   You can also set an SMSSync secret key for security purposes
-    *   Click on **_Save_**
-*   Open up the SMSSync Application on your android device. You’ll note that you can manage multiple Sync URLs on the app.
-*   To add a new Sync URL
-    *   Tap on the Sync URL from the navigation drawer.
-    *   Tap on the Add icon icon on the actionbar. An input dialog should open.
-    *   Enter a title for the Sync URL.
-    *   Enter a secret key(If you set one above). Make sure you enter the exact key here.
-    *   The secret key should be presented as string of any characters without spaces.
-    *   Enter a comma separated value for the keyword(s). These keywords will be used by SMSsync to filter incoming SMS and pending messages to the Sync URL you are adding. As of v2.0.2\. You can now add Regular Expression code for filtering. This means, it can either be CSV or RegExp. It cannot be both.
-    *   Enter the URL for your web service. Don&#039;t forget to start with the HTTP or HTTPS protocol. e.g. [https://example.com/api-v1/add-record/](https://example.com/api-v1/add-record/)
-    *   Tap OK to save the new entry.
+* * Retrieve the _**Sync URL**_, which you’ll need to configure SMSSync with under _**Step 2: ANDROID APP SETTINGS**_
+  * You can also set an SMSSync secret key for security purposes
+  * Click on _**Save**_
+* Open up the SMSSync Application on your android device. You’ll note that you can manage multiple Sync URLs on the app.
+* To add a new Sync URL
+  * Tap on the Sync URL from the navigation drawer.
+  * Tap on the Add icon icon on the actionbar. An input dialog should open.
+  * Enter a title for the Sync URL.
+  * Enter a secret key\(If you set one above\). Make sure you enter the exact key here.
+  * The secret key should be presented as string of any characters without spaces.
+  * Enter a comma separated value for the keyword\(s\). These keywords will be used by SMSsync to filter incoming SMS and pending messages to the Sync URL you are adding. As of v2.0.2. You can now add Regular Expression code for filtering. This means, it can either be CSV or RegExp. It cannot be both.
+  * Enter the URL for your web service. Don't forget to start with the HTTP or HTTPS protocol. e.g. [https://example.com/api-v1/add-record/](https://example.com/api-v1/add-record/)
+  * Tap OK to save the new entry.
 
-_Note: Version 2.5 or higher supports_[ _basic auth_](http://en.wikipedia.org/wiki/Basic_access_authentication) _credentials in the URL, e.g. https://username:pass@example.com/api-v1/add-record/._
+_Note: Version 2.5 or higher supports_[ _basic auth_](http://en.wikipedia.org/wiki/Basic_access_authentication) _credentials in the URL, e.g. _[https://username:pass@example.com/api-v1/add-record/](https://username:pass@example.com/api-v1/add-record/)_._
 
-*   You will now need to start the SMSSync Service to start forwarding messages to the platform. To start the SMSSync service
-    *   Make sure that you have added and enabled(checked) the Sync URL you added above.
-    *   On the SYNC URL screen, tap on the Start SMSsync service to start the service. You only do this if the service is disabled.
-*   You should be all set to work with SMSSync and Ushahidi now. Unstructured posts via SMS will now be pulled into the platform.
-*   To enable/disable the SMSSync data source, simply click on the green toggle.
+* You will now need to start the SMSSync Service to start forwarding messages to the platform. To start the SMSSync service
+  * Make sure that you have added and enabled\(checked\) the Sync URL you added above.
+  * On the SYNC URL screen, tap on the Start SMSsync service to start the service. You only do this if the service is disabled.
+* You should be all set to work with SMSSync and Ushahidi now. Unstructured posts via SMS will now be pulled into the platform.
+* To enable/disable the SMSSync data source, simply click on the green toggle.
 
-*   If you’d like to edit your SMSSync configuration, simply click on the drop down icon on the right while on the data sources list page****and make your changes.
+* If you’d like to edit your SMSSync configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
 
 For more details on how to manage messages within SMSSync, see [configuration instructions on the SMSSync Website](http://smssync.ushahidi.com/configure/)
 
@@ -149,46 +204,48 @@ For more details on how to manage messages within SMSSync, see [configuration in
 
 Twilio allows you to programmatically make and receive phone calls and send and receive text messages using its web service APIs.
 
-**_NB: You need a Twilio account to be able to configure this as a data source. To sign up, go to_ **[**_https://www.twilio.com/try-twilio_**](https://www.twilio.com/try-twilio)
+_**NB: You need a Twilio account to be able to configure this as a data source. To sign up, go to**_** **[_**https://www.twilio.com/try-twilio**_](https://www.twilio.com/try-twilio)
 
 To get started with Twilio set up,
 
-*   Log into your twilio account.
-*   You’ll need to buy a number to use. Click on **_PHONE NUMBERS._**
+* Log into your twilio account.
+* You’ll need to buy a number to use. Click on _**PHONE NUMBERS.**_
 
-****
+---
 
-*   Click on **_Buy a number_**
+* Click on _**Buy a number**_
 
-****
+---
 
-*   Select the desired criteria for your phone number
-    *   Country
-    *   Location/Number
-    *   Capabilities (Voice, SMS, MMS)
-*   Click on** _Search_**. A list of available numbers based on the criteria set above will appear.
-*   Click **_Buy_** on the number you’d like to use.
+* Select the desired criteria for your phone number
+  * Country
+  * Location/Number
+  * Capabilities \(Voice, SMS, MMS\)
+* Click on** **_**Search**_. A list of available numbers based on the criteria set above will appear.
+* Click _**Buy**_ on the number you’d like to use.
 
-*   Once you have a phone number, note it down as you’ll need it to configure your data source later on.
-*   You’ll need to grab your API credentials from your Twilio Account settings page.
+* Once you have a phone number, note it down as you’ll need it to configure your data source later on.
 
-*   Pick your _ACCOUNT SID_ and _AUTH TOKEN_ from the **_API Credentials_** section.
+* You’ll need to grab your API credentials from your Twilio Account settings page.
 
-*   Go back to your Data source settings page on your deployment
-*   Click on **_the drop down icon on the right as shown_**
+* Pick your _ACCOUNT SID_ and _AUTH TOKEN_ from the _**API Credentials**_ section.
 
-**_![Twilio.png](../assets/twilio.png)_**
+* Go back to your Data source settings page on your deployment
 
-*   Enter the following details, which you got earlier from your Twilio Account
-    *   **_From_**: Enter the phone number you will use to receive SMS messages from your twilio account
-    *   **_ACCOUNT SID_**: Enter the unique ID of your twilio account
-    *   **_AUTH TOKEN_**: Enter the Auth Token retrieved from your twilio settings page.
-    *   **_SMS Auto Response_**: This will likely be the message sent back to users who send you SMS Messages.
-*   Click on **_Save_ **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Twilio.
+* Click on _**the drop down icon on the right as shown**_
 
-*   To enable/disable the Twilio data source, simply click on the green toggle.
+![Twilio.png](../assets/twilio.png)
 
-*   If you’d like to edit your Twilio configuration, simply click on the drop down icon on the right while on the data sources list page****and make your changes.
+* Enter the following details, which you got earlier from your Twilio Account
+  * _**From**_: Enter the phone number you will use to receive SMS messages from your twilio account
+  * _**ACCOUNT SID**_: Enter the unique ID of your twilio account
+  * _**AUTH TOKEN**_: Enter the Auth Token retrieved from your twilio settings page.
+  * _**SMS Auto Response**_: This will likely be the message sent back to users who send you SMS Messages.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from SMS will now be pulled into the platform from Twilio.
+
+* To enable/disable the Twilio data source, simply click on the green toggle.
+
+* If you’d like to edit your Twilio configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
 
 ### 3.4.6 Twitter {#3-4-6-twitter}
 
@@ -196,30 +253,34 @@ This section allows you to configure twitter as a data source, and subsequently 
 
 For you to be able to pull tweets based on hashtags, you will need to set up your ushahidi deployment as an application on twitter. To get started,
 
-*   Click on **_the drop down icon on the right as shown_**
-*   Click on Create a new twitter application. This will redirect you to [https://apps.twitter.com](https://apps.twitter.com)
-*   Sign into [https://apps.twitter.com](https://dev.twitter.com) using your twitter username and password
-*   Click on “Create New App”
+* Click on _**the drop down icon on the right as shown**_
+* Click on Create a new twitter application. This will redirect you to [https://apps.twitter.com](https://apps.twitter.com)
+* Sign into [https://apps.twitter.com](https://dev.twitter.com) using your twitter username and password
+* Click on “Create New App”
 
-**_![Twitter.png](../assets/twitter.png)_**
+![Twitter.png](../assets/twitter.png)
 
-![Screen_Shot_2016-04-14_at_12_40_12_PM.png](../assets/screenshot_2016_-04-14at_12_40_12.png)
+![Screen\_Shot\_2016-04-14\_at\_12\_40\_12\_PM.png](../assets/screenshot_2016_-04-14at_12_40_12.png)
 
-*   Fill in the application details
-    *   Name – this can be your deployment/site name e.g Uchaguzi
-    *   Description – this is your deployment/site description – what your deployment does
-    *   Website – this is your deployment url/link i.e http://yourdeployment
-    *   Callback url – Leave this blank.
-    *   Agree to the terms and conditions then click on **_Create your twitter_ **application
+* Fill in the application details
 
-*   Once your application has been successfully created, you should now be able to access your access keys and tokens. To do so, click on **_Keys and Access Tokens_** or **_Manage Keys and Access_**
-*   You’ll get redirected to a page where you can grab details needed to configure your Ushahidi deployment i.e **_CONSUMER KEY_**, **_CONSUMER SECRET_**, **_ACCESS TOKEN_**, **_ACCESS TOKEN SECRET_**.
-*   You’ll have to generate an **_ACCESS TOKEN_** and **_ACCESS TOKEN SECRET_** by clicking on **_Generate my access token and token secret._ **This may take a couple of minutes, and your page will refresh with all the details you require.
-*   Go back to your twitter configuration page on your deployment and fill in all the details from your twitter app management page.
-*   Add the hashtags you want to pull tweets from in the “Twitter Search Terms” section. You can choose more than one hashtag, separated by a comma. It is recommended that short and clear hashtags be chosen.
-*   Click on **_Save_ **and this data source’s settings will be saved. Unstructured posts from twitter will now get pulled into the platform.
+  * Name – this can be your deployment/site name e.g Uchaguzi
+  * Description – this is your deployment/site description – what your deployment does
+  * Website – this is your deployment url/link i.e [http://yourdeployment](http://yourdeployment)
+  * Callback url – Leave this blank.
+  * Agree to the terms and conditions then click on _**Create your twitter**_** **application
 
-*   To enable/disable the twitter data source, simply click on the green toggle.
-*   If you’d like to edit your twitter configuration, simply click on the drop down icon on the right while on the data sources list page****and make your changes.
+* Once your application has been successfully created, you should now be able to access your access keys and tokens. To do so, click on _**Keys and Access Tokens**_ or _**Manage Keys and Access**_
 
-![Edit_Twitter.png](../assets/edittwitter.png)
+* You’ll get redirected to a page where you can grab details needed to configure your Ushahidi deployment i.e _**CONSUMER KEY**_, _**CONSUMER SECRET**_, _**ACCESS TOKEN**_, _**ACCESS TOKEN SECRET**_.
+* You’ll have to generate an _**ACCESS TOKEN**_ and _**ACCESS TOKEN SECRET**_ by clicking on _**Generate my access token and token secret.**_** **This may take a couple of minutes, and your page will refresh with all the details you require.
+* Go back to your twitter configuration page on your deployment and fill in all the details from your twitter app management page.
+* Add the hashtags you want to pull tweets from in the “Twitter Search Terms” section. You can choose more than one hashtag, separated by a comma. It is recommended that short and clear hashtags be chosen.
+* Click on _**Save**_** **and this data source’s settings will be saved. Unstructured posts from twitter will now get pulled into the platform.
+
+* To enable/disable the twitter data source, simply click on the green toggle.
+
+* If you’d like to edit your twitter configuration, simply click on the drop down icon on the right while on the data sources list page_\*\*_and make your changes.
+
+![Edit\_Twitter.png](../assets/edittwitter.png)
+
