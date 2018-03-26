@@ -1,10 +1,10 @@
 ## 4.1 Roles {#4-1-roles}
 
-This feature allows you to set up and manage default and custom roles and permissions for different user groups on your deployment. Each deployment has a **default “Admin” role**, which cannot be deleted, but can be edited. This **default “Admin” role** allows for full control over ALL functionality on your deployment.
+This feature allows you to set up and manage default and custom roles and permissions for different user groups on your deployment. Each deployment has a **default “Admin” and "Member"role**, which cannot be deleted, but can be edited. The **default “Admin” role** allows for full control over ALL functionality on your deployment, while the **default "Member" role** only grants access to edit their own posts.
 
 To access the roles management page,
 
-* On the left hand menu bar, click on _**Settings**_
+* On the left hand menu bar, click on _**Settings**_![](/assets/Click_on_settings.png)
 
 * Then, click on _**Roles**_
 
