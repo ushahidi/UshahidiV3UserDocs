@@ -1,4 +1,0 @@
-##  {#what-does-ushahidi-do}
-
-
-
