@@ -6,9 +6,7 @@ To access the roles management page,
 
 * On the left hand menu bar, click on _**Settings**_![](/assets/Click_on_settings.png)
 
-* Then, click on _**Roles**_
-
-![Custom\_Role\_Settings.png](../assets/customrole_settings.png)
+* Then, click on _**Roles**_![](/assets/Updated_Roles.png)
 
 * You’ll be redirected to a page with a list of all existing roles - default & custom roles \(created by admins if any exist\).
 
@@ -16,7 +14,7 @@ To access the roles management page,
 
 To add a custom user role,
 
-* Click on the yellow _**Add icon**_
+* Click on the yellow _**Add icon**_![](/assets/Click_on_add_role.png)
 * Add the following details
   * _**Name**_: Provide a name for this new custom role
   * _**Description**_: Provide a brief description of what/who this custom role has been created for
@@ -38,29 +36,30 @@ To add a custom user role,
       * Surveys
       * Categories
     * _**Bulk Data import**_**:** Allows for upload of data via CSV files
+    * _**Edit their own posts**_: Allows for editing of posts submitted by user
 * Click on _**Save**_.
 
-_See the illustration below_
+_See the illustration below_![](/assets/Add_role.png)
 
 ### 4.1.2 Edit Role
 
 To edit a role
 
-* Click on a role from the list provided to you.
-* On redirection to the edit page, make your desired changes to the role \(i.e fill out details as directed in the**\*\*\[**_Add Role_\*\*\]\(\#4-1-1-add-role\) section\)
-* Click on _**Save**_ to update the role.
+* Click on a role from the list provided to you.![](/assets/select_edit_role.png)
+* On redirection to the edit page, make your desired changes to the role \(i.e fill out details as directed in the [Add role](#411-add-role) section\)
+* Click on _**Save**_ to update the role.![](/assets/edit_role_2.png)
 
 ### 4.1.3 Delete Role
 
 To delete a role
 
-* Click on a role from the Roles management list page
-* Then, click on the _**Delete This Role**_ button at the bottom of the page
+* Click on a role from the Roles management list page![](/assets/select_edit_role.png)
+* Then, click on the _**Delete This Role**_ button at the bottom of the page![](/assets/Delete_role.png)
 
-* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the custom role. If
+* A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the custom role. If
 
-  * You would like to proceed with deletion, click on _**OK**_.
-  * You would not like to proceed with deletion, click on _**Dismiss**_
+  * You would like to proceed with deletion, click on _**Delete**_
+  * You would not like to proceed with deletion, click on _**Cancel**_![](/assets/Confirm_delete_role.png)
 
 
 
