@@ -6,7 +6,7 @@ A post is a report of a single instance of something in the deployment. It can b
 * _**Twitter**_: You can pull our tweets based on specific hashtags, search terms, and/or directly from specific accounts.
 * _**Email**_: You can configure your deployment to receive post from an email address
 
-_**NB: You can configure SMS, Twitter and Email as data sources as described in**_** **[_**Section 3.4**_](../3_configuring_your_deployment/34_data_sources.md)** **_**of this manual**_
+_**NB: You can configure SMS, Twitter and Email as data sources as described in**_** **[_**Section 3.4**_](/3_configuring_your_deployment/34_data_sources.md)** **_**of this manual**_
 
 * _**Web\(your deployment page online\)**_: Since Ushahidi is responsive, you can add a post from the web app from any device that can access the internet \(a computer, tablet, or mobile phone\).
 * _**Smartphone apps**_: Our native applications on Android and iOS are still a work in progress at the moment.
