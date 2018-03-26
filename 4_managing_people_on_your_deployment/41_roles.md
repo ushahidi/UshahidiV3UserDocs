@@ -4,59 +4,63 @@ This feature allows you to set up and manage default and custom roles and permis
 
 To access the roles management page,
 
-*   On the left hand menu bar, click on **_Settings_**
+* On the left hand menu bar, click on _**Settings**_
 
-*   Then, click on **_Roles_**
+* Then, click on _**Roles**_
 
-![Custom_Role_Settings.png](../assets/customrole_settings.png)
+![Custom\_Role\_Settings.png](../assets/customrole_settings.png)
 
-*   You’ll be redirected to a page with a list of all existing roles - default &amp; custom roles (created by admins if any exist).
+* You’ll be redirected to a page with a list of all existing roles - default & custom roles \(created by admins if any exist\).
 
-### 4.1.1 Add Role {#4-1-1-add-role}
+### 4.1.1 Add Role
 
 To add a custom user role,
 
-*   Click on the yellow **_Add icon_**
-*   Add the following details
-    *   **_Name_**: Provide a name for this new custom role
-    *   **_Description_**: Provide a brief description of what/who this custom role has been created for
-    *   **_Set your permissions_**. Below is a brief breakdown of what permissions get granted to users on selecting the options provided.
-        *   **_Manage Users_**: Allows for
-            *   Viewing Users
-            *   Adding, Editing, Deleting Users
-            *   and Changing roles for Users
-        *   **_Manage Posts_:** Allows for
-            *   Viewing posts
-            *   Editing and Deleting Posts
-            *   Publishing posts (Setting specific audiences to view )
-            *   Adding posts to collections
-            *   Creating new collections
-        *   **_Manage Settings_:** Allows for managing
-            *   General Settings
-            *   Map Settings
-            *   Data Sources
-            *   Surveys
-            *   Categories
-        *   **_Bulk Data import_:** Allows for upload of data via CSV files
-*   Click on **_Save_**.
+* Click on the yellow _**Add icon**_
+* Add the following details
+  * _**Name**_: Provide a name for this new custom role
+  * _**Description**_: Provide a brief description of what/who this custom role has been created for
+  * _**Set your permissions**_. Below is a brief breakdown of what permissions get granted to users on selecting the options provided.
+    * _**Manage Users**_: Allows for
+      * Viewing Users
+      * Adding, Editing, Deleting Users
+      * and Changing roles for Users
+    * _**Manage Posts**_**:** Allows for
+      * Viewing posts
+      * Editing and Deleting Posts
+      * Publishing posts \(Setting specific audiences to view \)
+      * Adding posts to collections
+      * Creating new collections
+    * _**Manage Settings**_**:** Allows for managing
+      * General Settings
+      * Map Settings
+      * Data Sources
+      * Surveys
+      * Categories
+    * _**Bulk Data import**_**:** Allows for upload of data via CSV files
+* Click on _**Save**_.
 
 _See the illustration below_
 
-### 4.1.2 Edit Role {#4-1-2-edit-role}
+### 4.1.2 Edit Role
 
 To edit a role
 
-*   Click on a role from the list provided to you.
-*   On redirection to the edit page, make your desired changes to the role (i.e fill out details as directed in the****[**_Add Role_**](#4-1-1-add-role) section)
-*   Click on **_Save_** to update the role.
+* Click on a role from the list provided to you.
+* On redirection to the edit page, make your desired changes to the role \(i.e fill out details as directed in the**\*\*\[**_Add Role_\*\*\]\(\#4-1-1-add-role\) section\)
+* Click on _**Save**_ to update the role.
 
-### 4.1.3 Delete Role {#4-1-3-delete-role}
+### 4.1.3 Delete Role
 
 To delete a role
 
-*   Click on a role from the Roles management list page
-*   Then, click on the **_Delete This Role_** button at the bottom of the page
+* Click on a role from the Roles management list page
+* Then, click on the _**Delete This Role**_ button at the bottom of the page
 
-*   A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the custom role. If
-    *   You would like to proceed with deletion, click on **_OK_**.
-    *   You would not like to proceed with deletion, click on **_Dismiss_**
+* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete the custom role. If
+
+  * You would like to proceed with deletion, click on _**OK**_.
+  * You would not like to proceed with deletion, click on _**Dismiss**_
+
+
+
