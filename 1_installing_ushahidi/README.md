@@ -9,3 +9,10 @@ We recommend that most users install the latest release.
 
 **Please note that we currently DO NOT RECOMMEND INSTALLATION ON WINDOWS OR MAC!**
 
+Other topics covered in this chapter include:-
+
+* [Upgrading your Ushahidi deployment code](/1_installing_ushahidi/13_upgrading_ushahidi.md)
+* [Connecting to the Ushahidi mobile app](/1_installing_ushahidi/14_connecting_to_ushahidi_mobile_app.md)
+
+
+
