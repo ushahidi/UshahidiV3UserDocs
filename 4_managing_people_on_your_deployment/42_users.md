@@ -9,13 +9,14 @@ To access the User management page,
 * You’ll be redirected to a page with a list of all existing users on your deployment
 
 * If you are an ushahidi.io user, you should see the the user you created on set up listed on this page. If you are an ushahidi open source user, every installation comes with a default username: _**admin**_ and password: _**admin**_
+
 * From here, you can search for users either by name or by custom role![](/assets/Search_users.png)![](/assets/apply_filter_user.png)
 
 ### 4.2.1 Adding new users {#4-2-1-adding-new-users}
 
 To add a new user,
 
-* Click on the _**yellow icon**_** **as shown below
+* Click on the _**yellow icon**_** **as shown below![](/assets/Click_add_user.png)
 * Fill out the details below
 
 * * _**Display Name**_: This is the name that will be displayed
@@ -28,11 +29,11 @@ To add a new user,
 
 To edit a user,
 
-* Click on the user you intend to edit from the user list page
+* Click on the user you intend to edit from the user list page![](/assets/Select_a_user_to_edit.png)
 
-* You should be able to edit the user’s display name, email address, password and user role from this page.
+* You should be able to edit the user’s display name, email address, password and user role from this page.![](/assets/Edit_user.png)
 
-* Click on save when done.
+* Click on _**save**_ when done.
 
 ### 4.2.3 Changing User roles {#4-2-3-changing-user-roles}
 
@@ -40,14 +41,14 @@ You can change multiple users’ roles at once from the user management page.
 
 * Tick the checkbox on the left, adjacent to the user\(s\) whose role you would like to change from the user list page
 
-* This action will activate the previously inactive _**Change Role**_** **dropdown button on the top menu bar.
+* This action will activate the previously inactive _**Change Role**_** **dropdown button on the top menu bar.![](/assets/Change_role_user_list.png)
 
 * Click on this dropdown and select the role you would like to assign your users to.![](https://lh6.googleusercontent.com/3ucmmMpgmX4aHGdiMCtcjs1S8vePeBO4p-7ZzIbwb9QKHSddr7l44zXcnHWB4C_vpevGifmZIUq2PQykIuB3YNMvFpixwXI7qzcYGrMYGa4YvzdJlIWtLH2bOk-MimcQ0yYp4Dbt)
 
 * A pop up box will appear, prompting you to confirm whether you would like to change the roles of your user\(s\)
 
   * Click on _**OK**_ to change your user\(s\) role
-  * If you’d like to cancel the role change process, click on _**Cancel**_
+  * If you’d like to cancel the role change process, click on _**Cancel**_![](https://lh3.googleusercontent.com/G3RIt1dIt0RfdCS3OsXe3-S1vBqCIVjmcHvsI-l2uSsY_ZQn0_lzusHX5uTS6iFOQqw5BSRgMcx_8DwkvJX9uZVi7nZbUoP9VVDDlNbSwDOVmA-cPlhXWaQ3UemcEJan88ggPhcs)
 
 ### 4.2.4 Deleting users {#4-2-4-deleting-users}
 
@@ -57,22 +58,20 @@ To delete a user
 
 * From the individual user edit page
 
-  * Click on the user you intend to edit from the user list page
-  * Click on _**Delete User**_
-  * A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your user
-    * Click on _**OK**_ to delete your user\(s\)
-    * If you’d like to cancel the user deletion process, click on Dismiss
+  * Click on the user you intend to edit from the user list page![](/assets/Select_a_user_to_edit.png)
+  * Click on _**Delete User**_![](/assets/delete_individual_user.png)
+  * A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your user
+    * Click on _**Delete**_ to delete your user
+    * If you’d like to cancel the user deletion process, click on _**Cancel**_![](/assets/Confirm_delete_individual_user.png)
 
 * From the User management page
 
   * Tick the checkbox on the left, adjacent to the user\(s\) you would like to delete from the user list page
 
-![Delete\_multiple\_users.png](../assets/deletemultiple_users.png)
-
-* * This action will activate the previously inactive _**Delete**_ button on the top menu bar. Click on it to initiate the deletion process
+* * This action will activate the previously inactive _**Delete**_ button on the top menu bar. Click on it to initiate the deletion process![](/assets/delete_user_list.png)
   * A pop up box will appear, prompting you to confirm whether you would like to delete your user\(s\)
     * Click on _**DELETE**_ to delete your user\(s\)
-    * If you’d like to cancel the user deletion process, click on _**Cancel**_
+    * If you’d like to cancel the user deletion process, click on _**Cancel**_![](/assets/Confirm_user_delete_list.png)
 
 
 
