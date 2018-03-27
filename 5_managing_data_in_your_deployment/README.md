@@ -1,4 +1,4 @@
-# 5. Managing Data in your deployment {#5-managing-data-in-your-deployment}
+# 6. Managing Data in your deployment {#5-managing-data-in-your-deployment}
 
 A post is a report of a single instance of something in the deployment. It can be made up of many fields, such as Title, Description, Date, Links, and/or location. Ushahidi allows for collection of posts via
 

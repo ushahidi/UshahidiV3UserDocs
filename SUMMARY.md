@@ -20,6 +20,10 @@
 * [4. Managing People on your deployment](4_managing_people_on_your_deployment/README.md)
   * [4.1 Roles](4_managing_people_on_your_deployment/41_roles.md)
   * [4.2 Users](4_managing_people_on_your_deployment/42_users.md)
+* [6. Modes for visualizing and managing data on your deployment](6_modes_for_visualizing_and_managing_data_on_your_/README.md)
+  * [6.1 Map Mode](6_modes_for_visualizing_and_managing_data_on_your_/61_map_mode.md)
+  * [6.2 Data Mode](6_modes_for_visualizing_and_managing_data_on_your_/62_data_mode.md)
+  * [6.3 Activity Mode](6_modes_for_visualizing_and_managing_data_on_your_/63_activity_mode.md)
 * [5. Managing Data in your deployment](5_managing_data_in_your_deployment/README.md)
   * [5.1 Viewing Posts](5_managing_data_in_your_deployment/51_viewing_posts.md)
   * [5.2 Adding Posts](5_managing_data_in_your_deployment/52_adding_posts.md)
@@ -28,10 +32,6 @@
   * [5.5 Deleting Posts](5_managing_data_in_your_deployment/55_deleting_posts.md)
   * [5.6 Importing Data](5_managing_data_in_your_deployment/56_importing_data.md)
   * [5.7 Exporting Data](5_managing_data_in_your_deployment/57_exporting_data.md)
-* [6. Modes for visualizing and managing data on your deployment](6_modes_for_visualizing_and_managing_data_on_your_/README.md)
-  * [6.1 Map Mode](6_modes_for_visualizing_and_managing_data_on_your_/61_map_mode.md)
-  * [6.2 Data Mode](6_modes_for_visualizing_and_managing_data_on_your_/62_data_mode.md)
-  * [6.3 Activity Mode](6_modes_for_visualizing_and_managing_data_on_your_/63_activity_mode.md)
 * [7. Analysing Data on your deployment](7_analysing_data_on_your_deployment/README.md)
   * [7.1 Filters](7_analysing_data_on_your_deployment/71_filters.md)
   * [7.2 Saved Searches](7_analysing_data_on_your_deployment/72_saved_searches.md)
@@ -40,6 +40,4 @@
   * [8.1 Documentation](8_additional_links/81_documentation.md)
   * [8.2 Report a bug](8_additional_links/82_report_a_bug.md)
   * [8.3 Features](8_additional_links/83_features.md)
-
-
 
