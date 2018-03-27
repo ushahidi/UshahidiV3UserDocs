@@ -1,4 +1,4 @@
-## 6.2 Filters {#7-1-filters}
+## 6.2 Filtering posts {#7-1-filters}
 
 Filters can be applied to narrow down a large amount of data. You can filter posts by many types of parameters, for example: _**Surveys, Categories, Status, Date Ranges, and Location.**_
 

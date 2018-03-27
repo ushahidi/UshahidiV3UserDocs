@@ -5,7 +5,7 @@ Posts on your deployment can be categorised into two types of data:-
 * _**Structured**_**:** Incoming posts from the web platform and smartphone applications are classified as structured posts, since they adhere to the structure of surveys created on your deployment.
 * _**Unstructured/Unknown**_**:** Incoming messages from SMS, Twitter and Email are classified as unknown posts, since they do not adhere to the structure of surveys created on your deployment. This means that these messages come in their raw form, and have to be manually structured by admins/anyone with permissions to edit posts, to fit into the structure of your survey. E.g an SMS message “Hello, my name is Angela” will need to be broken down into a title, a description, properly categorised etc.
 
-By default, every deployment has a set of three featured Saved Searches\(read more in [section 7.2](../7_analysing_data_on_your_deployment/72_saved_searches.md) of this manual\) from which you can view posts on your deployment, from the search filter.
+By default, every deployment has a set of three featured Saved Searches\(read more in the [Saved searches section](/7_analysing_data_on_your_deployment/72_saved_searches.md) of this manual\) from which you can view posts on your deployment, from the search filter.
 
 These include:-
 
@@ -13,7 +13,7 @@ These include:-
 * _**Unknown Posts**_: Lists all messages received from SMS, Email and Twitter, that have not been assigned to a survey i.e are unstructured
 * _**My posts**_: Lists all posts created by you as a user
 
-You can view posts in either Map, Data or Activity mode. We'll discuss each of these modes separately in [Chapter 6](/6_modes_for_visualizing_and_managing_data_on_your_/README.md).
+You can view posts in either Map, Data or Activity mode. We'd previously discussed each of these modes separately in [Chapter 5](/5_modes_for_visualizing_and_managing_data_on_your_/README.md).
 
 For purposes of managing your data, we recommend using Data Mode. From this page, You should be able to see the following:-
 
