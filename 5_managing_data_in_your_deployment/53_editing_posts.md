@@ -22,5 +22,7 @@ If you’re an admin, you should be able to:
 * ○ Set the status of this post to Published \(Which makes it public\), Under Review or Archived. When done making changes, click on _Save_.
 * Change the post date
 
+### 6.3.1 Structuring posts
+
 
 

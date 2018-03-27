@@ -17,11 +17,7 @@ You can view posts in either Map, Data or Activity mode. We'll discuss each of t
 
 For purposes of managing your data, we recommend using Data Mode. From this page, You should be able to see the following:-
 
-* A list of all posts in chronological order of when they were submitted into the platform. You can opt to change the order of the posts either by 
-  * Date created: 
-  * Post date:
-  * Date updates
-  * Newest first
+* A list of all posts in chronological order of when they were submitted into the platform. You can opt to change the order of the posts either through options provided in the search filter \( we'll dive into filtering posts in the next section \)
 * **Post visibility Status:** You can tell if a post is public or only visible to a specific audience
 * **Post source** \(is it from the Web, SMS, Email or Twitter?\).
   * _**Structured posts**_ via web/smartphones will have their respective source label on them.
