@@ -1,4 +1,4 @@
-## 6.5 Deleting Posts {#5-5-deleting-posts}
+## 6.6 Deleting Posts {#5-5-deleting-posts}
 
 The ability to delete posts is only available to admins or registered users with adequate permissions. This means that non registered users cannot delete posts.
 

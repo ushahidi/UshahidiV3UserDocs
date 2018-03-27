@@ -1,6 +1,6 @@
-## 6.2 Adding Posts {#5-2-adding-posts}
+## 6.3 Adding Posts {#5-2-adding-posts}
 
-### 6.2.1 Directly from the Web
+### 6.3.1 Directly from the Web
 
 Registered/non registered users can create posts using the same process described below. For descriptive purposes, the post below has three tasks.
 
@@ -20,17 +20,13 @@ To create a post,
 
   * If you’re a non registered user or a user without publish permissions, your post will be submitted to the deployment’s admin for review before publishing.
 
-### 6.2.2 Email
+### 6.3.2 Email
 
-### 6.2.3 Twitter
+### 6.3.3 Twitter
 
-### 6.2.4 Email
+### 6.3.4 Email
 
-### 6.2.5 Smartphone apps
-
-
-
-
+### 6.3.5 Smartphone apps
 
 
 
