@@ -6,15 +6,17 @@ Registered/non registered users can create posts using the same process describe
 
 To create a post,
 
-* Click on the yellow add icon as shown below on your homepage, or on the bottom left corner on the data mode page
+* Click on the yellow add icon as shown below on your homepage, or on the bottom left corner on the data mode page![](/assets/Click_on_add_post.png)
 
-* In the event that you have multiple surveys on your deployment, you’ll have to choose the survey from a list of all surveys available on your deployment.
+* In the event that you have multiple surveys on your deployment, you’ll have to choose the survey from a list of all surveys available on your deployment.![](/assets/Select_a_survey.png)
 
 * Make sure to fill out all fields with a red asterisk beside them, You will not be able to save or publish your post before these fields are filled out.
 
+  * NB: [Users are now able to submit improvements to the OpenStreetMap Basemap, directly from the post submission page](https://www.ushahidi.com/blog/2017/04/06/using-mapbox-at-ushahidi). In some cases, base maps are not up to date. We highly encourage you to contribute to improving base maps in your locations of interest. For more details on how to improve OpenStreetMap, [visit the OSM wiki here.](https://wiki.openstreetmap.org/wiki/Beginners%27_guide) 
+
 * Make sure to fill out any tasks visible to you on this submission page as well. NB: You can submit posts without filling out or completing tasks. However, in the event that your task is a requirement for publishing, this post will not be published unless the task is marked as complete.
 
-* When you’re done adding content for your post, click on _**Save**_
+* When you’re done adding content for your post, click on _**Submit**_![](/assets/Submit_post.png)
 
 * Your post will be submitted to the deployment’s admin for review before publishing.
 
@@ -32,9 +34,5 @@ If SMS has been configured and enabled as a data source on your deployment, user
 
 ### 6.3.5 Smartphone apps
 
-Users should be able to download the Ushahidi Mobile app for [Android](https://play.google.com/store/apps/details?id=com.ushahidi.mobile&hl=en) or [iOS](https://itunes.apple.com/us/app/ushahidi-mobile/id1205994516?ls=1&mt=8), search for your deployment, or add the URL directly. Once synced, they should be able to add posts directly onto your deployment in a similar manner to the web app. 
-
-
-
-
+Users should be able to download the Ushahidi Mobile app for [Android](https://play.google.com/store/apps/details?id=com.ushahidi.mobile&hl=en) or [iOS](https://itunes.apple.com/us/app/ushahidi-mobile/id1205994516?ls=1&mt=8), search for your deployment, or add the URL directly. Once synced, they should be able to add posts directly onto your deployment in a similar manner to the web app.
 
