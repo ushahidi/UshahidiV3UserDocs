@@ -8,7 +8,9 @@ From here, you should be able to:-
 * View individual post details
 
 * Edit posts to either change existing structures or assign posts from Twitter, SMS and/or email to a survey![](/assets/Click_on_edit.png)![](/assets/Edit_post_page.png)
+
 * You can also
+
   * Add posts to collections
   * Publish posts
   * Put posts under review
@@ -18,7 +20,7 @@ From here, you should be able to:-
 
 * Get notified when new posts arrive![](/assets/New_posts_as_they_come_in.png)
 
-* Perform bulk actions on multiple posts at a time![](/assets/Bulk_actions_1.png)![](/assets/Bulk_actions_two.png)
+* Perform bulk actions\( publishing, putting under review, archiving, adding to collections and deleting\) on multiple posts at a time![](/assets/Bulk_actions_1.png)![](/assets/Bulk_actions_two.png)
 
 _NB: Data displayed on this page is dependent on permissions granted to the user viewing this page_
 
