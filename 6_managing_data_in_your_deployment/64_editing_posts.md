@@ -2,25 +2,17 @@
 
 The post editing function is only available to admins or registered users with adequate permissions. This means that non registered users cannot edit posts.
 
-This feature is particularly useful when creating posts out of _**unstructured posts**_** **\(messages from SMS, Email, Twitter\)
+This feature is particularly useful when creating posts out of _**unstructured posts**_** **\(messages from SMS, Email, Twitter\). We'll cover   the structuring process in [section 6.4.1 below.](#641-structuring-posts)
 
 To edit a post,
 
-* Click on _**Edit**_ from:-
+* Select a post from your data view![](/assets/Date_mode_before_post_selection.png)![](/assets/Post_selected_for_viewing.png)
 
-  * The Posts List page
-  * An individual post’s view page
+* Click on _**Edit. **_This will load the post editor on the right pane of your page, where you’ll be able to edit any of the content.![](/assets/Edit_button.png)![](/assets/Edit_a_post.png)![](/assets/Edit_your_task.png)
 
-* This will take you to the post creation page, where you’ll be able to edit any of the content.
-
-* If you’ve got an image uploaded you can replace the image
+* If you're logged in and have adequate permissions you should also be able to change the status of your post.![](/assets/Set_edit_post_status.png)
 
 * When done making changes, click on _**Save**_.
-
-If you’re an admin, you should be able to:
-
-* ○ Set the status of this post to Published \(Which makes it public\), Under Review or Archived. When done making changes, click on _Save_.
-* Change the post date
 
 ### 6.4.1 Structuring posts
 
