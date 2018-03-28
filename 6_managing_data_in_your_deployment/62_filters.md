@@ -2,15 +2,35 @@
 
 Filters can be applied to narrow down a large amount of data. You can filter posts by many types of parameters, for example: _**Surveys, Categories, Status, Date Ranges, and Location.**_
 
-![Screen Shot 2017-05-31 at 1.17.51 PM.png](../assets/screen_shot_2017-05-31_at_11751_p.png)
-
 Survey and Category filters are located on the left side context modal of your deployment.
 
-![Screen Shot 2017-05-31 at 1.19.15 PM.png](../assets/screen_shot_2017-05-31_at_11915_p.png)
+![](/assets/Survey_and_category_modals.png)
 
-All other filters are located within the "Filters" modal on the top global search bar.
+All other filters\(including survey and category\) are located within the "Filters" modal on the top global search bar, which allows you to
 
-![Screen Shot 2017-05-31 at 1.20.15 PM.png](../assets/screen_shot_2017-05-31_at_12015_p.png)
+* **sort posts by**
+  * Date of creation
+  * Post date i.e date when it was assigned to a survey
+  * Date updated
+* **filter reports by**
 
-Filters are additive, so you can apply as many as you would like. This search filter is available on all pages.
+  * _**Saved searches**_
+
+    * By default, every deployment has a set of three featured Saved Searches\(read more in the [Saved searches section](/7_analysing_data_on_your_deployment/72_saved_searches.md) of this manual\) from which you can view posts on your deployment, from the search filter.These include:-
+
+      * _**Published Posts**_: Lists all posts that have been made public on your deployment\(i.e can be viewed by registered/non registered users on your deployment.
+
+      * _**Unknown Posts**_: Lists all messages received from SMS, Email and Twitter, that have not been assigned to a survey i.e are unstructured
+
+      * _**My posts**_: Lists all posts created by you as a user
+
+  * _**Status**_
+
+    * Published: Posts that can be seen by both logged in and non logged in users
+    * Under review: Posts that can only be seen by logged in users with adequate permissions
+    * Archived: Posts that have been deemed to be irrelevant and removed from your active view
+
+  * Other filters include **Surveys, Categories, Data source, Date range, Location **or any other user determined parameters![](/assets/Filter_pane.png)![](/assets/Search_filter.png)Filters are additive, so you can apply as many as you would like. This search filter is available on all pages.
+
+
 
