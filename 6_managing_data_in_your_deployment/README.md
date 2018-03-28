@@ -13,19 +13,19 @@ _**NB: You can configure SMS, Twitter and Email as data sources as described in*
 
 This chapter will describe how to manage data coming in from these different sources
 
-[6.1 Viewing Posts](/5_managing_data_in_your_deployment/51_viewing_posts.md)
+[6.1 Viewing Posts](/6_managing_data_in_your_deployment/61_viewing_posts.md)
 
-[6.2 Filtering posts](/7_analysing_data_on_your_deployment/71_filters.md)
+[6.2 Filtering posts](/6_managing_data_in_your_deployment/62_filters.md)
 
-[6.3 Adding posts](/5_managing_data_in_your_deployment/52_adding_posts.md)
+[6.3 Adding posts](/6_managing_data_in_your_deployment/63_adding_posts.md)
 
-[6.4 Editing posts](/5_managing_data_in_your_deployment/53_editing_posts.md)
+[6.4 Editing posts](/6_managing_data_in_your_deployment/64_editing_posts.md)
 
-[6.5 Publishing posts](/5_managing_data_in_your_deployment/54_publishing_posts.md)
+[6.5 Publishing posts](/6_managing_data_in_your_deployment/65_publishing_posts.md)
 
-[6.6. Deleting Posts](/5_managing_data_in_your_deployment/55_deleting_posts.md)
+[6.6. Deleting Posts](/6_managing_data_in_your_deployment/66_deleting_posts.md)
 
-[6.7 Importing Data](/5_managing_data_in_your_deployment/56_importing_data.md)
+[6.7 Importing Data](/6_managing_data_in_your_deployment/67_importing_data.md)
 
-[6.8. Exporting Data](/5_managing_data_in_your_deployment/57_exporting_data.md)
+[6.8. Exporting Data](/6_managing_data_in_your_deployment/68_exporting_data.md)
 
