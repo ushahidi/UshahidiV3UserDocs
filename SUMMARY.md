@@ -37,9 +37,4 @@
   * [7.1 Saved Searches](7_analysing_data_on_your_deployment/72_saved_searches.md)
   * [7.2 Collections](7_analysing_data_on_your_deployment/73_collections.md)
 * [8. Additional Links](8_additional_links/README.md)
-  * [8.1 Documentation](8_additional_links/81_documentation.md)
-  * [8.2 Report a bug](8_additional_links/82_report_a_bug.md)
-  * [8.3 Features](8_additional_links/83_features.md)
-
-
 
