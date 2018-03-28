@@ -1,14 +1,12 @@
 ## 7.1 Saved Searches {#7-2-saved-searches}
 
-Saved searches are dynamic groupings of posts that match parameters chosen in filters. Saved searches are dynamic because as new posts are added that fit the search criteria, they will show in the saved search.
+Saved searches are dynamic groupings of posts that match parameters chosen in filters.They are dynamic because as new posts are added that fit the search criteria, they will show in the saved search automatically, and without manual intervention.
 
-Saved searches are particularly useful for your working groups.You’re able to set filters for information that’s relevant to each working group.
+Saved searches are particularly useful for managing workflows and teams on your deployment. They allow you to set filters for information that’s relevant to each working group/team. For example:-
 
-For example:-
+● It is useful for a team tasked with structuring to only see posts that are unstructured. Creating a saved search with these parameters will be useful
 
-● It is useful for the structuring and publishing team to only see posts that are unstructured. Creating a saved search with these parameter s will be useful
-
-● The verification team need to see posts that are tagged as unverified, so creating a saved search with these parameters will be useful.
+● A team tasked with publishing needs to only see posts that are yet to be published, so creating a saved search with these parameters will be useful.
 
 _**Please note that only registered users can create Saved searches. Non registered users can only view public searches**_
 
