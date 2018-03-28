@@ -8,14 +8,14 @@ Ordinary viewers of a deployment can access three different modes as shown below
 
 * Map
 * Data
-* Activity
+* Activity![](/assets/Unlogged_in_mode.png)
 
 Signed in users\(with the necessary permissions\) can access four different modes as shown below:-
 
 * Map
 * Data
 * Activity
-* Settings
+* Settings![](/assets/Logged_in_mode.png)
 
 Your ushahidi deployment defaults to the map mode for anyone who visits your homepage\(as illustrated above\). To change your current mode, select any of the options provided to you from the menu on your left.
 

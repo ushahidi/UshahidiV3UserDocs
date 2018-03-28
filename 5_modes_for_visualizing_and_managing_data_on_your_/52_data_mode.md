@@ -1,6 +1,6 @@
 ## 5.2 Data Mode {#6-2-data-mode}
 
-This mode allows you to view, triage, and manage posts coming into your deployment as a chronological list of events over time. It provides a split pane view of post summaries in the left pane, and post details and editing in the right pane as you select posts.
+This mode allows you to view, triage, and manage posts coming into your deployment as a chronological list of events over time. It provides a split pane that allows for viewing post summaries on the left pane, and post details and editing in the right pane. 
 
 To access this mode,
 
