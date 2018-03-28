@@ -6,27 +6,20 @@ You can select multiple posts to delete at a time from the post list page, or de
 
 To delete
 
-* An individual post from
-  * The Post list page, click on the dropdown as shown below. Then, click on _**Delete**_
+* An individual post from the data view, click on the three dotted icon from the list of detail pane as shown below, then click on _**Delete**_![](/assets/Three_dots_map_mode.png)
 
----
+  * A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your post
+    * Click on _**Delete**_ to delete your post
+    * If you’d like to cancel the post deletion process, click on _**Cancel**_![](/assets/confirm_delete_single.png)
 
-* * The Post edit page, click on the dropdown as shown below, Then, click on _**Delete**_
-
----
-
-A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your post\(s\)
-
-* * Click on _**Delete**_ to delete your post\(s\)
-  * If you’d like to cancel the post deletion process, click on _**Cancel**_
 * Multiple posts from the post lists page
 
-  * Tick the checkbox on the left, adjacent to the post\(s\) you would like to delete from the posts list page. You can also click on _**Select All**_ to grab all posts listed on that page
+  * Click on bulk actions, then tick the checkbox on the left, adjacent to the post\(s\) you would like to delete from the posts list page. You can also click on _**Select All**_ to grab all posts listed on that page
 
-* * This action will activate the previously inactive _**Delete**_ button on the grey menu bar. Click on it to initiate the deletion process
+* * This action will activate the previously inactive _**Delete**_ button on the grey menu bar. Click on it to initiate the deletion process![](/assets/Bulk_delete_1.png)
   * A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your post\(s\)
     * Click on _**Delete**_ to delete your post\(s\)
-    * If you’d like to cancel the post deletion process, click on _**Cancel**_
+    * If you’d like to cancel the post deletion process, click on _**Cancel**_![](/assets/confirm_delete_bulk.png)
 
 
 
