@@ -15,6 +15,7 @@ _**Please note that only registered users can create Saved searches. Non registe
 You can create a saved search from your homepage by:-
 
 * Adding your search/filter parameters on the search bar as shown below.
+
   * A _**Save Search**_ button will appear on the search and filter modal.![](/assets/Create_saved_search_1.png)Click on it. 
 
 * A small pop up box will appear, asking you to fill in the following details:-![](/assets/Create_saved_search_2.png)
