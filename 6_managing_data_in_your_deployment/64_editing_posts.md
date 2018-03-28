@@ -18,22 +18,22 @@ To edit a post,
 
 Structuring is described as the process of converting messages from SMS, Email and Twitter into the format of existing surveys. To begin with the structuring process
 
-* Select a post to structure from your data view. Your post detail will pop up on the right hand side of your post card.
+* Select a post to structure from your data view. Your post detail will pop up on the right hand side of your post card.![](/assets/Select_post_to_structure.png)
 * If the post is being edited by someone else on your team, you will see a notice on the top of the post detail pane. You will not be able to edit the post again until the post has been saved and taken out of edit mode by your teammate.
 
   _**Please note: if you are an admin, you have the ability to override the edit lock. If you choose to override the lock, any changes being made by the person editing at that time will be lost if they have not saved them. Proceed with caution.**_
 
-* Read the content of the post to determine the survey to which you should assign this post to. 
+* Read the content of the post to determine the survey to which you should assign this post to.
 
-  * If you require more information from the author of the post before you are able to assign or structure your post, you will be able to message the author, ONLY IF the post was submitted via SMS or Email.
+  * If you require more information from the author of the post before you are able to assign or structure your post, you will be able to message the author, ONLY IF the post was submitted via SMS or Email.![](/assets/Conversation_with_author.png)![](/assets/Send_a_new_message.png)
 
-* Once you're very sure, select the appropriate survey to assign this post to
+* Once you're very sure, Click on _**Edit**_, and then select the appropriate survey to assign this post to.![](/assets/Click_edit_post_structure.png)![](/assets/Select_a_survey_structure.png)
 
 * Add appropriate content to your post as you structure it. This will all be dependent on your survey structure, as this will give direction on what details you will be able to add
 
   * Make sure to fill out all required fields. You should be able to extract a title, description and location from the content of the post.
 
-* Once you've completed filling out all required details, click on** Save.**
+* Once you've completed filling out all required details, click on** Save.**![](/assets/structure_your_survey.png)
 
 ### 6.4.2 Locked posts
 
