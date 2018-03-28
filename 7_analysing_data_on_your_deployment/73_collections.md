@@ -15,7 +15,6 @@ To create a new collection,
   * Collections icon on the bottom left hand corner of your deployment as illustrated below![](https://lh6.googleusercontent.com/akIH4QSPLE0wUz1Z_Tm7cRwfPjJ4ifZ53v_nK2DXmhbiY2BnhkyY80BGO0ZkXWbDWSTnPzfYHPIm52cO_i3ImWYog_-WYbw8zJN4gGh5RbCwbin2rcWtJYExrUZWkBbl6Mq0p0Ow)
 
 * * The three dotted icon on the data view page while viewing the list on the left and the detailed pane on the right. \( _note that this will assign this post to the new collection created_![](/assets/Three_dots_map_mode.png)![](/assets/Create_new_collection_1.png)
-
 * A pop up box will appear, with a list of all existing collections, and a _**Create new**_ button. Click on it.![](https://lh5.googleusercontent.com/XOGzsLzec-Uh7DN6Xiln-2H94Fj58ANvzqv4Swp22nYIhOdUY2R9kNRel-1lf0veu5kUD9DdrMbvCCGDgEHSOUqCViIt3kqiQyQJndYliYssfM-bHyzlYi1qDgWvuqxNYvq010ln)
 
 * Then, fill in the following details:-![](/assets/create_new_collection_details.png)
@@ -67,10 +66,9 @@ To delete a collection,
 * Click on the collection you would like to delete
 * Click on the three dots button, right next to the _**Edit**_ button.![](/assets/three_dots_collection.png)![](/assets/delete_collection.png)
 
-* Click on _**Delete. **_A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your collection![](https://lh4.googleusercontent.com/N4XURq1yEM8JrGtk38oQpG-PbEiNl57JkZDgQCHdC1Xzgra1t6IrCcyPU7j5iKoayvxkO8Dur1_EjYPSkuWU99mWQoaN6wZGMUDR5kCdWibx97jx2sFAnPtiT6sWoz2kr3VFLOOE)
+* Click on **Delete. **A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your collection![](https://lh4.googleusercontent.com/N4XURq1yEM8JrGtk38oQpG-PbEiNl57JkZDgQCHdC1Xzgra1t6IrCcyPU7j5iKoayvxkO8Dur1_EjYPSkuWU99mWQoaN6wZGMUDR5kCdWibx97jx2sFAnPtiT6sWoz2kr3VFLOOE)Click on _**OK**_ to delete your collection
 
-* * Click on _**OK**_ to delete your collection
-  * If you’d like to cancel the collection deletion process, click on _**Cancel**_
+* If you’d like to cancel the collection deletion process, click on _**Cancel**_
 
 
 

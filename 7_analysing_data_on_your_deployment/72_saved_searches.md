@@ -15,9 +15,9 @@ _**Please note that only registered users can create Saved searches. Non registe
 You can create a saved search from your homepage by:-
 
 * Adding your search/filter parameters on the search bar as shown below.
-  * A _**Save Search**_ button will appear on the menu bar on the left of your screen.
-* A small pop up bo
-* A small pop up box will appear, asking you to fill in the following details:-
+  * A _**Save Search**_ button will appear on the search and filter modal.![](/assets/Create_saved_search_1.png)Click on it. 
+
+* A small pop up box will appear, asking you to fill in the following details:-![](/assets/Create_saved_search_2.png)
 
 * * Assign a _**saved search name**_
   * Provide a _**description**_
@@ -25,14 +25,14 @@ You can create a saved search from your homepage by:-
   * Set the **default viewing mode** for this saved search\(choosing between Map, Data or Activity\). This is the view that a user will see when they first arrive at this saved search
   * Determine if this saved search is **featured** or not. Setting this saved search as featured displays to all users on the saved search menu
 * Click on _**Save&Close**_ when done.
-* Your saved search should now appear on the _**Saved Searches**_** **menu bar on your search bar.
+* Your saved search should now appear on the _**Saved Searches**_** **menu bar on your search bar.![](/assets/Select_a_saved_search_filter.png)
 
 ### 7.1.2 Updating a saved search {#7-2-2-updating-a-saved-search}
 
 You can update a saved search at any time by adding/editing your filters/keywords, or turning off existing filters/keywords.
 
 * Set your parameters on the search bar by either typing or selecting options from the search
-* An _**Update Search**_ button will appear on the menu bar on the left of your screen. Click on it.
+* An _**Update Search**_ button will appear on the menu bar on the left of your screen. Click on it.![](/assets/update_your_saved_search.png)
 
 ### 7.1.3 Adding a notification to a saved search {#7-2-3-adding-a-notification-to-a-saved-search}
 
@@ -40,10 +40,10 @@ As a registered and logged in user, you can set up notifications on Saved Search
 
 To add a notification,
 
-* Click on the saved search you’d like to receive notifications for
-* Click on the three dots button, right next to the _**Edit**_ button.
+* Select saved search you’d like to receive notifications for
+* Click on the three dots button, right next to the _**Edit**_ button.![](/assets/three_dots_saved_search.png)
 
-* Click on _**Get Notifications**_
+* Click on _**Get Notifications**_![](/assets/Get_notification_saved_search.png)
 
 * You can turn off notifications for this saved search using the same process described above.
 
@@ -51,23 +51,19 @@ To add a notification,
 
 To edit a saved search,
 
-* Click on the saved search you would like to edit
-* Click on _**Edit**_** **as shown below
+* Select saved search you would like to edit from the search filter.![](/assets/Select_a_saved_search_filter.png)
+* Click on _**Edit**_** **as shown below![](/assets/edit_saved_search_filter.png)
 
-* Edit your saved search details, then click on** **_**Save&Close**_
-
----
+* Edit your saved search details, then click on** **_**Save&Close**_![](/assets/Edit_saved_search.png)
 
 ### 7.1.5 Deleting a saved search {#7-2-5-deleting-a-saved-search}
 
 To delete a saved search,
 
-* Click on the saved search you would like to delete
-* Click on the three dots button, right next to the _**Edit**_ button.
+* Select saved search you would like to delete
+* Click on the three dots button, right next to the _**Edit**_ button.![](/assets/three_dots_saved_search.png)
 
-* Click on** **_**Delete**_.
-
-* A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your saved search
+* Click on** **_**Delete**_. A  pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your saved search![](/assets/delete_saved_search.png)![](https://lh4.googleusercontent.com/KaWaMxL7-isOa1jr9ySOZdW-3QrZOn2la-iaQtQqLKFk0dJ4S71SkJaU1cAWjGrWnuRBfRDa4KjaLLQ_hTnETiPWGx6QkKdTsQ_wMA1yKz-p-9WA8321spyLjjWDejoQ2g31EEaI)
 
 * * Click on _**OK**_ to delete your saved search
   * If you’d like to cancel the saved search deletion process, click on _**Cancel**_
