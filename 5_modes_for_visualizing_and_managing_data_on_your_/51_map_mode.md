@@ -8,3 +8,8 @@ This mode displays all published posts on a map.
 
 See below for an example from the Uchaguzi deployment![](/assets/Map_mode.jpg)
 
+You also get a breakdown of incoming posts by source, as shown below.![](/assets/Posts_by_source.png)  
+Visitors to your ushahidi instance can also select the language they'd like to interact with your data in. The language list consists of languages that have been translated upto 80%.
+
+ ![](/assets/Language.png)![](/assets/Language_2.png)![](/assets/Language_3.png)
+
