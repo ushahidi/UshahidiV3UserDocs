@@ -37,9 +37,9 @@ Optional properties:
 
 It's necessary to configure your web server to serve the config.json file along with a series of HTTP headers. Here are the headers:
 
-`Access-Control-Allow-Origin: *  
-Access-Control-Allow-Methods: GET, POST, OPTIONS  
-Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range  
+`Access-Control-Allow-Origin: *    
+Access-Control-Allow-Methods: GET, POST, OPTIONS    
+Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range    
 Access-Control-Expose-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range`
 
 The exact way to accomplish this depends on the specific kind of web server that you are using.

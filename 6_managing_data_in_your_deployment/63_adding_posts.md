@@ -2,31 +2,39 @@
 
 ### 6.3.1 Directly from the Web
 
-Registered/non registered users can create posts using the same process described below. For descriptive purposes, the post below has three tasks.
+Registered/non registered users can create posts using the same process described below. For descriptive purposes, the post below has one tasks.
 
 To create a post,
 
-* Click on the yellow add icon as shown below on your homepage_**.**_** **If you’re viewing any other page on this deployment, this ison will appear on the top left hand corner, just as on the homepage.
+* Click on the yellow add icon as shown below on your homepage, or on the bottom left corner on the data mode page
 
 * In the event that you have multiple surveys on your deployment, you’ll have to choose the survey from a list of all surveys available on your deployment.
 
-* The survey chosen determines which fields will be filled out in each task\(if multiple tasks exist\). Make sure to fill out all fields with a red asterisk beside them in each task. You will not be able to save or publish your post before these fields are filled out.
+* Make sure to fill out all fields with a red asterisk beside them, You will not be able to save or publish your post before these fields are filled out.
 
-* Once you’re done filling all required fields in a task, make sure to _**Mark as complete**_. You’ll notice that this option is disabled until all required fields in the task are complete. You should also note that you won’t be able to save the post if there are required tasks that have not been marked as complete.
+* Make sure to fill out any tasks visible to you on this submission page as well. NB: You can submit posts without filling out or completing tasks. However, in the event that your task is a requirement for publishing, this post will not be published unless the task is marked as complete.
 
-* If you’re an admin, you should be able to set permissions on who will be able to view this post. The _**Just you can see this**_** **dropdown has a list of all custom roles created on your deployment to choose from, as well as the option to leave the post viewable by just you. Setting this option to “Everyone” will publish your post.
+* When you’re done adding content for your post, click on _**Save**_
 
-* When you’re done adding content and completing tasks that are required, click on _**Save.**_
-
-  * If you’re a non registered user or a user without publish permissions, your post will be submitted to the deployment’s admin for review before publishing.
+* Your post will be submitted to the deployment’s admin for review before publishing.
 
 ### 6.3.2 Email
 
+If email has been configured and enabled as a data source on your deployment, users will be able to send in posts directly by sending an email to the email address configured. These will appear in your data mode view, and available via the search filter. [See chapter 3.4 for more configuration details](/3_configuring_your_deployment/34_data_sources.md)
+
 ### 6.3.3 Twitter
 
-### 6.3.4 Email
+If Twitter has been configured and enabled as a data source on your deployment, you will be able to pull in tweets corresponding to the hashtags you have indicated. These will appear in your data mode view, and available via the search filter. [See chapter 3.4 for more configuration details](/3_configuring_your_deployment/34_data_sources.md)
+
+### 6.3.4 SMS
+
+If SMS has been configured and enabled as a data source on your deployment, users will be able to send in text messages directly to a configured short code or sms number of your choice, which will be pulled in to your data view and available via the search filter. [See chapter 3.4 for more configuration details](/3_configuring_your_deployment/34_data_sources.md)
 
 ### 6.3.5 Smartphone apps
+
+Users should be able to download the Ushahidi Mobile app for [Android](https://play.google.com/store/apps/details?id=com.ushahidi.mobile&hl=en) or [iOS](https://itunes.apple.com/us/app/ushahidi-mobile/id1205994516?ls=1&mt=8), search for your deployment, or add the URL directly. Once synced, they should be able to add posts directly onto your deployment in a similar manner to the web app. 
+
+
 
 
 
