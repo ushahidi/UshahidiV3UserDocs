@@ -16,7 +16,7 @@ From here, you should be able to:-
   * Put posts under review
   * Archive posts
   * Share posts
-  * Delete posts![](/assets/Edit__add_to_collection__share__publish_etc.png)
+  * Delete posts![](/assets/Three_dots_map_mode.png)![](/assets/Edit__add_to_collection__share__publish_etc.png)
 
 * Get notified when new posts arrive![](/assets/New_posts_as_they_come_in.png)
 
