@@ -14,7 +14,7 @@ To delete
 
 * Multiple posts from the post lists page
 
-  * Click on bulk actions, then tick the checkbox on the left, adjacent to the post\(s\) you would like to delete from the posts list page. You can also click on _**Select All**_ to grab all posts listed on that page
+  * Click on bulk actions, then tick the checkbox on the left, adjacent to the post\(s\) you would like to delete from the posts list page. You can also click on _**Select All**_ to grab all posts listed on that page![](/assets/Bulk_actions_1.png)
 
 * * This action will activate the previously inactive _**Delete**_ button on the grey menu bar. Click on it to initiate the deletion process![](/assets/Bulk_delete_1.png)
   * A black pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your post\(s\)
