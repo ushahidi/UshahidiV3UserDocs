@@ -6,7 +6,7 @@ You can select multiple posts to delete at a time from the post list page, or de
 
 To delete
 
-* An individual post from the data view, click on the three dotted icon from the list of detail pane as shown below, then click on _**Delete**_![](/assets/Three_dots_map_mode.png)
+* An individual post from the data view, click on the three dotted icon from the list of detail pane as shown below, then click on _**Delete**_![](/assets/Three_dots_map_mode.png)![](/assets/delete_individual.png)
 
   * A pop up box will appear on the top of the page, prompting you to confirm whether you would like to delete your post
     * Click on _**Delete**_ to delete your post
