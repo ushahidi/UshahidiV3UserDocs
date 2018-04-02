@@ -31,7 +31,9 @@ Structuring is described as the process of converting messages from SMS, Email a
 
 * Add appropriate content to your post as you structure it. This will all be dependent on your survey structure, as this will give direction on what details you will be able to add
 
-  * Make sure to fill out all required fields. You should be able to extract a title, description and location from the content of the post.
+  * All content from your post will be automatically added into your Description field. It is from here that you will be able to extract information to assign to other fields in your survey.
+
+  * Make sure to fill out all required fields.
 
 * Once you've completed filling out all required details, click on** Save.**![](/assets/structure_your_survey.png)
 
