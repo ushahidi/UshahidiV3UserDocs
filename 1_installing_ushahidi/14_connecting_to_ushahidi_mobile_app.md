@@ -37,9 +37,9 @@ Optional properties:
 
 It's necessary to configure your web server to serve the config.json file along with a series of HTTP headers. Here are the headers:
 
-`Access-Control-Allow-Origin: *    
-Access-Control-Allow-Methods: GET, POST, OPTIONS    
-Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range    
+`Access-Control-Allow-Origin: *      
+Access-Control-Allow-Methods: GET, POST, OPTIONS      
+Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range      
 Access-Control-Expose-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range`
 
 The exact way to accomplish this depends on the specific kind of web server that you are using.
@@ -49,5 +49,5 @@ The exact way to accomplish this depends on the specific kind of web server that
 * Download the Ushahidi Mobile app for [Android](https://play.google.com/store/apps/details?id=com.ushahidi.mobile&hl=en) or [iOS](https://itunes.apple.com/us/app/ushahidi-mobile/id1205994516?ls=1&mt=8)
 * Follow the App steps to setup access to your deployment
 
-
+![](https://lh4.googleusercontent.com/Mc85dUrz_qF0YtUn9X0kinOEc3cU9Q21zpcJf0udq_nWE4xLEyqoNRwH80R3OkWfW-Hd2Y-5lESiiNyPQzC1-mHPChR2Y9MWjTlbz15GefHjlSpkoADZHZ8WuQCrzRRaXLrXWm0W)![](https://lh3.googleusercontent.com/LZorCBT2obq30KPd-6nz3PEbkL7yxbp-6LvtexBxeLIrk0YMsCzt6OxGD5Kl1pE84oGW7vIKsueCq3PvgcTK6rH1PJA-x2AGw-gX5eYIbsPLd2MnroggT8kis4wHRoxNX5bN8oQN)![](https://lh6.googleusercontent.com/aLq8eYAFCIptEpxe5shQPSyB0V-JsA9_r-fVI-xTAJJZXQfE1orFBZUvSSv-Bsn5E0bHiSQ9rJnWfTU2HbnHbJg6xXsrAzn0_ut-ZWGJ-aHyDnRNCkiT1sb76xmXvy7mIvp7KBHB)
 
