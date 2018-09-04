@@ -1,4 +1,4 @@
-# Ushahidi Platform User Manual {#ushahidi-platform-user-manual}
+# Ushahidi Platform User Manual
 
 This manual gives you a step by step overview of how to set up an Ushahidi version 3.0 deployment, and how to make full use of [the features the platform offers](https://www.ushahidi.com/features). You can:-
 
