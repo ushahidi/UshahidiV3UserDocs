@@ -1,17 +1,17 @@
 # Overview of Ushahidi Platform v3.0
 
-## What does Ushahidi Do? {#what-does-ushahidi-do}
+## What does Ushahidi Do? <a id="what-does-ushahidi-do"></a>
 
 * Ushahidi is a tool for collecting, managing, and visualizing data.
 * Data can be collected from anyone, anytime, anywhere by SMS, email, web, Twitter, and RSS.
 * Posts can be managed and triaged with filters and workflows.
 * Data can be managed in different modes : on a map, in a Data, or as a visualization.
 
-## Who is Ushahidi For? {#who-is-ushahidi-for}
+## Who is Ushahidi For? <a id="who-is-ushahidi-for"></a>
 
 Anyone can use Ushahidi, but traditionally it has been a tool used by Crisis Responders, Human Rights Reporters, and Citizens & Governments \(such as election monitoring or corruption reporters\). We also serve environmental mappers, asset monitoring, citizen journalism, international development, and many others.
 
-## What's New in Version 3? {#what-s-new-in-version-3}
+## What's New in Version 3? <a id="what-s-new-in-version-3"></a>
 
 The biggest change in v3 is the unification of the administrative interface with Modes of action. There is now a single interface. Volunteers can now work directly on the data in modes, with permissions on what any particular person can see being set by role-based Permissions. While the guide will go into a full description of each part of the interface, this introduction gives a sample of what is to come:
 
