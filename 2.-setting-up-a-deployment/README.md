@@ -4,7 +4,7 @@
 
 From the homepage on [ushahidi.com](https://ushahidi.com)
 
-![Image of the Ushahidi.io website with the deployment creation entry point.](../.gitbook/assets/import.png)
+![](https://lh3.googleusercontent.com/FdPBkMdCpgex44wHkNslTaggPz8A7_weU9to9Dkel_y6ikFwS5tXvmQDIeh7shyE3aOlTM6Cau_Xooyt9DlUm-CPbTn6M-mUuS12yoqVNZmCeUwSjVdoQTh8jneMrmMv-p_OoQr9)
 
 At [http://ushahidi.io/create](http://ushahidi.io/create)
 
