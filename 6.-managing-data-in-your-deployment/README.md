@@ -27,5 +27,5 @@ This chapter will describe how to manage data coming in from these different sou
 
 [6.7 Importing Data](6.7-importing-data.md)
 
-[6.8. Exporting Data](6.8-exporting-data.md)
+[6.8. Exporting Data](6.8-exporting-data/)
 

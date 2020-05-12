@@ -1,6 +1,6 @@
 # 6.8 Exporting Data
 
-The platform now allows for data export, enabling you to download posts from the platform in CSV format. You can download posts from your map mode, Data mode, [saved searches](../7.-analysing-data-on-your-deployment/7.1-saved-searches.md) and [collections](../7.-analysing-data-on-your-deployment/7.2-collections.md) you have access to, or based on custom criteria\( [search filters](6.2-filtering-posts.md) set by you as a user\).
+The platform now allows for data export, enabling you to download posts from the platform in CSV format. You can download posts from your map mode, Data mode, [saved searches](../../7.-analysing-data-on-your-deployment/7.1-saved-searches.md) and [collections](../../7.-analysing-data-on-your-deployment/7.2-collections.md) you have access to, or based on custom criteria\( [search filters](../6.2-filtering-posts.md) set by you as a user\).
 
 To export a CSV file,
 
