@@ -13,6 +13,14 @@ _**NB: You can configure SMS, Twitter and Email as data sources as described in*
 
 This chapter will describe how to manage data coming in from these different sources
 
+In the below video setup guide you will find how to view, filter, edit, publish, delete, export, and how to share your posts.
+
+### Video Setup Guide
+
+{% embed url="https://www.loom.com/share/b328bbfdb9f44ed881402728e662ee12" caption="Managing data in your deployment" %}
+
+### Written Setup Guides
+
 [6.1 Viewing Posts](6.1-viewing-posts.md)
 
 [6.2 Filtering posts](6.2-filtering-posts.md)
