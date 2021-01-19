@@ -25,6 +25,7 @@
   * [6.2 Filtering Posts](6.-managing-data-in-your-deployment/6.2-filtering-posts.md)
   * [6.3 Adding Posts](6.-managing-data-in-your-deployment/6.3-adding-posts.md)
   * [6.4 Editing Posts](6.-managing-data-in-your-deployment/6.4-editing-posts.md)
+  * [6.5 Translating Posts](6.-managing-data-in-your-deployment/6.5-translating-posts.md)
   * [6.5 Publishing Posts](6.-managing-data-in-your-deployment/6.5-publishing-posts.md)
   * [6.6 Deleting Posts](6.-managing-data-in-your-deployment/6.6-deleting-posts.md)
   * [6.7 Importing Data](6.-managing-data-in-your-deployment/6.7-importing-data.md)
