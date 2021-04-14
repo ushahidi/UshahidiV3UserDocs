@@ -1,6 +1,6 @@
 # 7. Managing your Donations
 
-**Web Monetization**
+## **Web Monetization**
 
 {% hint style="info" %}
 This data source is not yet available in the stable versions of Platform. You may not find it in your settings.
