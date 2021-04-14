@@ -1,4 +1,4 @@
-# 7. Analysing Data on your deployment
+# 8. Analysing Data on your deployment
 
 [7.1 Saved searches](7.1-saved-searches.md)
 
