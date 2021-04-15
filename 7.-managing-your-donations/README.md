@@ -13,5 +13,5 @@ For the deployers to receive money, they will need to have an account on uphold.
 
 Nb: This will be discussed 
 
-[Donations](https://app.gitbook.com/@ushahidi/s/ushahidi-platform-user-manual/~/drafts/-MYFTl-K1M304tSm13Nr/7.-deployment-monetization/7.1-donations)
+Donations
 
