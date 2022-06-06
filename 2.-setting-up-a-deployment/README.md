@@ -4,9 +4,15 @@
 
 From the homepage on [ushahidi.com](https://ushahidi.com)
 
-![](https://lh3.googleusercontent.com/FdPBkMdCpgex44wHkNslTaggPz8A7\_weU9to9Dkel\_y6ikFwS5tXvmQDIeh7shyE3aOlTM6Cau\_Xooyt9DlUm-CPbTn6M-mUuS12yoqVNZmCeUwSjVdoQTh8jneMrmMv-p\_OoQr9)
+![](https://lh6.googleusercontent.com/42Wo-QY8mOia4RVO4c7aJKEybfUg-\_zz2vA-s-SIG2kwgFjPRRQOV7an95Ohh5FtAIYwdLQQIGohYcusJYhlbL5HxMSq-Qnhtaya9-KLbj\_3QKuhymVxJbg2AtE7KF04Hi4xxCohTWKKtrDY8Q)
 
 At [http://ushahidi.io/create](http://ushahidi.io/create)
+
+![](../.gitbook/assets/Create\_new\_deployment\_\_\_Ushahidi.png)
+
+* You can limit what cookies end up on your computer or mobile device by enabling/disabling them.&#x20;
+* Click on _**details**_ to have a basic understanding of what each cookie entails before selecting, and click on _**About**_ to learn more about cookies.
+* Click on _**Deny or Allow Selection or Allow All**_ when done.
 
 ![Image of the deployment creation page at http://ushahidi.io/create](../.gitbook/assets/create\_a\_deployment.png)
 
@@ -31,20 +37,6 @@ At [http://ushahidi.io/create](http://ushahidi.io/create)
 * You will be taken on a brief tour of the user interface and main features of Ushahidi. If you’d like to skip this tour, click on “Skip” at any time.
 
 ![CONTINUE and SKIP buttons highlighted while in the Ushahidi tour page.](../.gitbook/assets/tour-\_skip\_jpg.jpeg)
-
-* After the tour, you will be prompted to choose a plan from a list. Select one of the options provided for you.
-
-![Choosing a plan for Ushahidi. Available: Free, Ushahidi Basic, and Enterprise plans.](<../.gitbook/assets/Screen Shot 2019-09-04 at 23.57.14.png>)
-
-You can dive deeper into the [full list of plan features here](https://www.ushahidi.com/pricing) to help you choose a plan that will meet your needs. If you work for a grassroots organization that can’t afford a paid plan, [apply for a free deployment here](https://www.ushahidi.com/pricing/apply-for-free).
-
-* If you select the Free demo deployment plan, your deployment will build within a couple of minutes, and you’ll see your deployment name at the top.
-* If you select a paid plan (ie: Basic), you’ll need to do the following:-
-  * Enter your credit card details
-  * Click on continue
-  * After validation and successful payment, your deployment will be set up and available for you to use in a couple of minutes.
-
-![Ushahidi Basic credit card information page.](<../.gitbook/assets/Screen Shot 2019-09-05 at 00.01.39.png>)
 
 
 
